@@ -4,7 +4,7 @@
   <VersionName><![CDATA[ DOT-N-v1.0-20171019-mido-OFFICIAL ]]></VersionName>
   <VersionNumber type="integer">20171019</VersionNumber>
   <DirectUrl>https://downloads.sourceforge.net/project/dotos-ota/mido/DOT-N-v1.0-20171019-mido-OFFICIAL.zip</DirectUrl>
-  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/mido/</HttpUrl>
+  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/mido</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>2A610A6AFC5E1DE0837F7BDF6F46D23E</CheckMD5>
   <FileSize type="integer">511182039</FileSize>
