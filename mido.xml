@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <RomName>DotOS-v1.0-OFFICIAL</RomName>
+  <RomName>dot_mido</RomName>
   <VersionName><![CDATA[ DOT-N-v1.0-20171019-mido-OFFICIAL ]]></VersionName>
   <VersionNumber type="integer">20171019</VersionNumber>
   <DirectUrl>https://downloads.sourceforge.net/project/dotos-ota/mido/DOT-N-v1.0-20171019-mido-OFFICIAL.zip</DirectUrl>
