@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_mido</RomName>
-  <VersionName>DOT-N-v1.0-20171019-mido-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171106</VersionNumber>
+  <VersionName>DOT-N-v1.0-20171105_074921-mido-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171105</VersionNumber>
   <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/mido/DOT-N-v1.0-20171105_074921-mido-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/mido</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>2A610A6AFC5E1DE0837F7BDF6F46D23E</CheckMD5>
   <FileSize type="integer">509052736</FileSize>
   <Developer>Iacob Ionut</Developer>
-  <Changelog>Build Update</Changelog>
+  <Changelog>
+  *** First Release ***
+  </Changelog>
 </ROM>
