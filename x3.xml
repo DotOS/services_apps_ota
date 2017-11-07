@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_x3</RomName>
+  <VersionName>DOT-N-v1.0-20171107-x3-OFFICIAL.zip</VersionName>
+  <VersionNumber type="integer">20171107</VersionNumber>
+  <DirectUrl>https://downloads.sourceforge.net/project/dotos-ota/x3/DOT-N-v1.0-20171107-x3-OFFICIAL.zip?r=&ts=1510072475&use_mirror=netix</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/x3</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>26b460e9bf897dabf4a839164a95608a</CheckMD5>
+  <FileSize type="integer">522461252</FileSize>
+  <Developer>Psycho Mods</Developer>
+  <Changelog>
+  *** Initial Release ***
+  </Changelog>
+</ROM>
