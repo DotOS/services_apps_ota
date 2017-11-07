@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_mido</RomName>
-  <VersionName>DOT-N-v1.0-20171105_074921-mido-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171105</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/mido/DOT-N-v1.0-20171105_074921-mido-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.0-20171107-mido-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171107</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/mido/DOT-N-v1.0-20171107-mido-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/mido</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>2A610A6AFC5E1DE0837F7BDF6F46D23E</CheckMD5>
-  <FileSize type="integer">509052736</FileSize>
+  <FileSize type="integer">505156085</FileSize>
   <Developer>Iacob Ionut</Developer>
   <Changelog>
-  *** First Release ***
+  # Changelog
+
+New System Animations [Fixed Animations lag]
+Say Welcome to dotOTA [up for mido]
+Added Magisk Preference Button in Settings / ROM Control
+Implemented Buttons Menu in ROM Control : Buttons / NavigationBar Enable/Disable and controls
+Updated Magsik to latest, no need to reflash for Safety Net Check [only for Mido]
+Added DotExtras QuickSettings section
+New Dialer, Gallery and MusicFX Icon
+Fingerprint authentication vibration
+Maybe many more
+
   </Changelog>
 </ROM>
