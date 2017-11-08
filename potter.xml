@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_potter</RomName>
+  <VersionName>DOT-N-v1.0-20171108-potter-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171108</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/potter/DOT-N-v1.0-20171108-potter-OFFICIAL.zip</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/potter</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>50f4377b4af06a16c8c82c2caa6c608a</CheckMD5>
+  <FileSize type="integer">40156085</FileSize>
+  <Developer>Anshuman mishra</Developer>
+  <Changelog>
+  # Changelog
+
+New System Animations [Fixed Animations lag]
+Say Welcome to dotOTA
+Added Magisk Preference Button in Settings / ROM Control
+Implemented Buttons Menu in ROM Control : Buttons / NavigationBar Enable/Disable and controls
+Motoactions fixed
+Added DotExtras QuickSettings section
+New Dialer, Gallery and MusicFX Icon
+Fingerprint authentication vibration
+Maybe many more
+
+  </Changelog>
+</ROM>
