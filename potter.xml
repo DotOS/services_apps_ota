@@ -7,16 +7,16 @@
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/potter</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>93d3c0157521d82f20db336e5acdae99</CheckMD5>
-  <FileSize type="integer">40156085</FileSize>
+  <FileSize type="integer">424673280</FileSize>
   <Developer>Anshuman mishra</Developer>
   <Changelog>
+ 
   # Changelog
 
-Kernel Upstream to 3.18.80 ||
-Fix partial screenshot not working when dragging from left or top border||
-Screenshot Crop & Share ||
-Double apps in potter fixed||
-Disable/Enable Screenshot sounds ||
-
-   </Changelog>
+Kernel Upstream to 3.18.80
+Fix partial screenshot not working when dragging from left or top border
+Screenshot Crop & Share
+Double apps in potter fixed
+Disable/Enable Screenshot sounds
+</Changelog>
 </ROM>
