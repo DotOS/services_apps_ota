@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_woods</RomName>
+  <VersionName>DOT-N-v1.0-20171109-woods-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171109</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/woods/DOT-N-v1.0-20171109-woods-OFFICIAL.zip</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/woods</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>308df692b19d782e9e3a4acabe0a9d1b</CheckMD5>
+  <FileSize type="integer">378180854</FileSize>
+  <Developer>iykeDROID™</Developer>
+  <Changelog>
+  # Changelog
+
+New System Animations [Fixed Animations lag]
+Say Welcome to dotOTA [up for mido]
+Added Magisk Preference Button in Settings / ROM Control
+Implemented Buttons Menu in ROM Control : Buttons / NavigationBar Enable/Disable and controls
+Updated Magsik to latest, no need to reflash for Safety Net Check [only for Mido]
+Added DotExtras QuickSettings section
+New Dialer, Gallery and MusicFX Icon
+Fingerprint authentication vibration
+Maybe many more
+Added Motorola Moto E4[woods] to Official Devices list
+
+  </Changelog>
+</ROM>
