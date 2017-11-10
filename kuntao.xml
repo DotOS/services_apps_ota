@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_kuntao</RomName>
+  <VersionName>DOT-N-v1.0-20171110-kuntao-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171110</VersionNumber>
+  <DirectUrl>yet_to_test</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/kuntao</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>yet_totest</CheckMD5>
+  <FileSize type="integer"></FileSize>
+  <Developer>Abhay Ruparel</Developer>
+ <Changelog>
+  *** second  Release ***
+  </Changelog>
+</ROM>
