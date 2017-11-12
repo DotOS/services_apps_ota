@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_kenzo</RomName>
+  <VersionName>DOT-N-v1.0-20171112-kenzo-official</VersionName>
+  <VersionNumber type="integer">20171112</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/kenzo/DOT-N-v1.0-20171112-kenzo-official.zip</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/kenzo</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>421711a4d86fa79fcef77951c7c2e06c</CheckMD5>
+  <FileSize type="integer">476933093</FileSize>
+  <Developer>Shamith™</Developer>
+  <Changelog>
+  # Changelog
+
+New System Animations [Fixed Animations lag]
+Say Welcome to dotOTA [up for mido]
+Added Magisk Preference Button in Settings / ROM Control
+Implemented Buttons Menu in ROM Control : Buttons / NavigationBar Enable/Disable and controls
+Updated Magsik to latest, no need to reflash for Safety Net Check [only for Mido]
+Added DotExtras QuickSettings section
+New Dialer, Gallery and MusicFX Icon
+Fingerprint authentication vibration
+Magisk Redmoved In this update will be added in next build
+Maybe many more
+Added Xiaomi Redmi Note 3[kenzo] to Official Devices list
+
+  </Changelog>
+</ROM>
