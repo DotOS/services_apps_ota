@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_potter</RomName>
-  <VersionName>DOT-N-v1.0-20171109-potter-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171109</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/potter/DOT-N-v1.0-20171109-potter-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.0-20171115-potter-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171115</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/potter/DOT-N-v1.0-20171115-potter-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/potter</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>93d3c0157521d82f20db336e5acdae99</CheckMD5>
@@ -12,10 +12,14 @@
   <Changelog>
   # Changelog
 
-Kernel Upstream to 3.18.80
-Apps Duplicates Fixed
-Enable/Disable Screenshot sound
-More fixes to Partial Screenshot
-
-  </Changelog>
+Misc crash fixed
+new customisations added
+ui lag fixes
+</Changelog>
 </ROM>
+
+
+
+
+
+
