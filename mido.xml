@@ -10,8 +10,25 @@
   <FileSize type="integer">483784418</FileSize>
   <Developer>Iacob Ionut</Developer>
   <Changelog>
-    Bring up to dotOS V1.1
-    
-    Full Changelog : Comming soon
+* Bump Dot version to v1.1
+* Fingerprint: Setting up Pattern/Pin Fc fixed
+* dotOTA added(OTA system adapted for official devices)
+* fix dot version unknown
+* speed up lockscreen anims
+* Improve overall System animmation lag
+* Added timber as default music app
+* Display :Qspanel theme engine
+* QS tile titles visibility
+* Memory leak Optimisation
+* Three Finger Swipe for Screenshot
+* Advanced Bluetooth, Data, Wifi Toggles
+* Screenshot crop and share
+* Fingerprint authentication vibration
+* dotpapers: New walls added
+* Pocket mode added
+* added camera sound toggle
+* Allow disabling of FC dialogs
+* QS Header Icon settings
+* and few more bug fixes
   </Changelog>
 </ROM>
