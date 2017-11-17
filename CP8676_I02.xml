@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_CP8676_I02</RomName>
+  <VersionName>DOT-N-v1.1-20171117-CP8676_I02-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171117</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/CP8676_I02/DOT-N-v1.1-20171117-CP8676_I02-OFFICIAL.zip</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/CP8676_I02</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>nil</CheckMD5>
+  <FileSize type="integer">483784418</FileSize>
+  <Developer>Mohan Cm</Developer>
+  <Changelog>
+  [LIST]
+   [*] Bring up to dotOS V1.1
+   [*] New Revamp in UI
+   [*] test1
+   [*] test2
+  [/LIST] 
+    Full Changelog : Comming soon
+  </Changelog>
+</ROM>
