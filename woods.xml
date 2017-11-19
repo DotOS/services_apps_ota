@@ -6,32 +6,16 @@
   <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/woods/DOT-N-v1.1-20171119-woods-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/woods</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>5e4ebe8a13621bc9513e84e269488245</CheckMD5>
-  <FileSize type="integer">366628744</FileSize>
+  <CheckMD5>91698ad1f1cb9798f8568d4b1f8180f3</CheckMD5>
+  <FileSize type="integer">366604698</FileSize>
   <Developer>iykeDROID™</Developer>
   <Changelog>
-**dotOS Changelog**
-
+  **dotOS Changelog**
+-------------------
+[*] Build : Nov 19,2017 17:28(utc)
 * Bump Dot version to 1.1''
-* Fingerprint: Setting up Pattern/Pin Fc fixed
-* dotOTA added(OTA system adapted for official devices)
-* fix dot version unknown
-* speed up lockscreen anims
-* Improve overall System animmation lag
-* Added timber as default music app
-* Display :Qspanel theme engine
-* QS tile titles visibility
-* Memory leak Optimisation
-* Three Finger Swipe for Screenshot
-* Advanced Bluetooth, Data, Wifi Toggles
-* Screenshot crop and share
-* Fingerprint authentication vibration
-* dotpapers: New walls added
-* Pocket mode added
-* added camera sound toggle
-* Allow disabling of FC dialogs
-* QS Header Icon settings
-* and few more bug fixes
+* November Android Security patch 
+* minor fixes { [woods] specific }
 
   </Changelog>
 </ROM>
