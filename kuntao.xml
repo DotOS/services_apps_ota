@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ROM> <RomName>dot_kuntao</RomName> 
-<VersionName>DOT-N-v1.1-20171118-kuntao-OFFICIAL</VersionName> 
-<VersionNumber type="integer">20171118</VersionNumber> 
-<DirectUrl>https://sourceforge.net/projects/dotos-ota/files/kuntao/DOT-N-v1.1-20171118-kuntao-OFFICIAL.zip/download </DirectUrl> 
-<HttpUrl>https://sourceforge.net/projects/dotos-ota/files/kuntao</HttpUrl>
-<Android>7.1.2</Android> 
-<CheckMD5>c894cc8584faddf4ded22747a43c6db7</CheckMD5> 
-<FileSize type="integer">541065216</FileSize> <Developer>Abhay Ruparel</Developer>
-<Changelog>
+<ROM> 
+  <RomName>dot_kuntao</RomName> 
+  <VersionName>DOT-N-v1.1-20171118-kuntao-OFFICIAL</VersionName> 
+  <VersionNumber type="integer">20171118</VersionNumber> 
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/kuntao/DOT-N-v1.1-20171118-kuntao-OFFICIAL.zip/download </DirectUrl> 
+  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/kuntao</HttpUrl>
+  <Android>7.1.2</Android> 
+  <CheckMD5>c894cc8584faddf4ded22747a43c6db7</CheckMD5> 
+  <FileSize type="integer">541065216</FileSize> <Developer>Abhay Ruparel</Developer>
+  <Changelog>
 * update prima (wifi driver) to LA.UM.5.6.r1-06200-89xx.0
 * Fixed fp gestures thx highwaystar
 * Reverted to stock audio hal for now oss is little unstable
@@ -27,7 +28,8 @@
 * Pocket mode added
 * added camera sound toggle
 * Allow disabling of FC dialogs
-* QS Header Icon settings* and few more bug fixes  </Changelog>
+* QS Header Icon settings* and few more bug fixes  
+  </Changelog>
 </ROM>
 
 
