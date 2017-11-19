@@ -1,37 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_kenzo</RomName>
-  <VersionName>DOT-N-v1.1-20171117-kenzo-OFFICIAL.zip</VersionName>
-  <VersionNumber type="integer">20171117</VersionNumber>
+  <VersionName>DOT-N-v1.1-20171119-kenzo-OFFICIAL.zip</VersionName>
+  <VersionNumber type="integer">20171119</VersionNumber>
   <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/kenzo/DOT-N-v1.0-20171112-kenzo-official.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/kenzo</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>3b607810ec2c0c5f08af9f7af10d142a</CheckMD5>
-  <FileSize type="integer">483625561</FileSize>
+  <CheckMD5>5ab01a5e3b0c00fab50f009c5e276d5c</CheckMD5>
+  <FileSize type="integer">482376957</FileSize>
   <Developer>Shamith™(Irvin16)</Developer>
   <Changelog>
   # Changelog
     
     
-* Bump Dot version to 1.1''
-* Fingerprint: Setting up Pattern/Pin Fc fixed
-* Dotextras:dotOTA added
-* fix dot version unknown
-* speed up lockscreen anims
-* Added timber as default music app
-* Bump Dot version to 1.1
-* Display :Qspanel theme engine
-* QS tile titles visibility
-* Three Finger Swipe for Screenshot
-* Advanced Bluetooth, Data, Wifi Toggles
-* Screenshot crop and share
-* Fingerprint authentication vibration
-* dotpapers: New walls added
-* Pocket mode added
-* added camera sound toggle
-* Allow disabling of FC dialogs
-* QS Header Icon settings
-* and few more bug fixes 
+* Fixed fingerpring delay issue
+  November security patch merget
+  Fixed some minor bugs
 
 
 
