@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_tomato</RomName>
+  <VersionName>DOT-N-v1.1-20171119-kenzo-OFFICIAL.zip</VersionName>
+  <VersionNumber type="integer">20171119</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/tomato/DOT-N-v1.1-20171119-tomato-OFFICIAL.zip</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/tomato</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>ea8d83d82b4ebc593de6ab12f1ee63c1</CheckMD5>
+  <FileSize type="integer">445343104</FileSize>
+  <Developer>Shamith™(Irvin16)</Developer>
+  <Changelog>
+  # Changelog
+* Bump Dot version to v1.1
+* dotOTA added(OTA system adapted for official devices)
+* fix dot version unknown
+* speed up lockscreen anims
+* Improve overall System animmation lag
+* Added timber as default music app
+* Display :Qspanel theme engine
+* QS tile titles visibility
+* Memory leak Optimisation
+* Three Finger Swipe for Screenshot
+* Advanced Bluetooth, Data, Wifi Toggles
+* Screenshot crop and share
+* Fingerprint authentication vibration
+* dotpapers: New walls added
+* Pocket mode added
+* added camera sound toggle
+* Allow disabling of FC dialogs
+* QS Header Icon settings
+* and few more bug fixes
+* November security patch merged
+  </Changelog>
+</ROM>
