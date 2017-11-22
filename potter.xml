@@ -1,20 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_potter</RomName>
-  <VersionName>DOT-N-v1.0-20171115-potter-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171115</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/potter/DOT-N-v1.0-20171115-potter-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.1-20171122-potter-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171122</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/potter/DOT-N-v1.1-20171122-potter-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/potter</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>93d3c0157521d82f20db336e5acdae99</CheckMD5>
-  <FileSize type="integer">424673280</FileSize>
+  <FileSize type="integer">400673280</FileSize>
   <Developer>Anshuman Mishra</Developer>
   <Changelog>
   # Changelog
 
-Misc crash fixed
-new customisations added
-ui lag fixes
+* Bump Dot version to 1.1''
+* Fingerprint: Setting up Pattern/Pin Fc fixed
+* dotOTA added(OTA system adapted for official devices)
+* fix dot version unknown
+* speed up lockscreen anims
+* Improve overall System animmation lag
+* Added timber as default music app
+* Display :Qspanel theme engine
+* QS tile titles visibility
+* Memory leak Optimisation
+* Three Finger Swipe for Screenshot
+* Advanced Bluetooth, Data, Wifi Toggles
+* Screenshot crop and share
+* Fingerprint authentication vibration
+* dotpapers: New walls added
+* Pocket mode added
+* added camera sound toggle
+* Allow disabling of FC dialogs
+* QS Header Icon settings
+* Nov patch merged
+* and a few more bug fixes
+* fc on pressing edit button on statusbar fixed
 </Changelog>
 </ROM>
 
