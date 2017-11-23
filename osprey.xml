@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_osprey</RomName>
+  <VersionName>DOT-N-v1.1-20171123-osprey-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171122</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/osprey/DOT-N-v1.1-20171123-osprey-OFFICIAL.zip</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/osprey</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>7faede4f6cb5bcb56bdd90d3b505fe48</CheckMD5>
+  <FileSize type="integer">334768567</FileSize>
+  <Developer>Zilberto Junior (psychicboy)</Developer>
+  <Changelog>
+  # Changelog
+
+New System Animations
+Say Welcome to dotOTA
+Added Magisk Preference Button in Settings / ROM Control
+Implemented Buttons Menu in ROM Control : Buttons / NavigationBar Enable/Disable and controls
+Updated Magsik to latest, no need to reflash for Safety Net Check
+Added DotExtras QuickSettings section
+New Dialer, Gallery and MusicFX Icon
+Maybe many more
+
+  </Changelog>
+</ROM>
