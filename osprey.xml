@@ -13,6 +13,7 @@
   # Changelog
 
 * Bump Dot version to 1.1''
+* Added CMActions again
 * Fingerprint: Setting up Pattern/Pin Fc fixed
 * dotOTA added(OTA system adapted for official devices)
 * fix dot version unknown
