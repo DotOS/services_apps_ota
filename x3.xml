@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_x3</RomName>
-  <VersionName>DOT-N-v1.0-20171122-x3-OFFICIAL.zip</VersionName>
+  <VersionName>DOT-N-v1.1-20171122-x3-OFFICIAL.zip</VersionName>
   <VersionNumber type="integer">20171122</VersionNumber>
   <DirectUrl>https://downloads.sourceforge.net/project/dotos-ota/x3/DOT-N-v1.1-20171122-x3-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/x3</HttpUrl>
@@ -32,6 +32,7 @@
 * QS Header Icon settings
 * and few more bug fixes
 * Nov security patch
+* 
 * **Device Specific Changes**
 * Kernel upstream to 3.10.108
   </Changelog>
