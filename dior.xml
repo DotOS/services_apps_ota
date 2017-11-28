@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_dior</RomName>
-  <VersionName>DOT-N-v1.1-20171125-dior-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171125</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/</DirectUrl>
+  <VersionName>DOT-N-v1.1-20171128-dior-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171128</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/dior/DOT-N-v1.1-20171128-dior-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/dior</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>782ce2aa537cda33bdb1c6dfef252b29</CheckMD5>
+  <CheckMD5>a4b73363b6d8c3f6dba96661521c55e0</CheckMD5>
   <FileSize type="integer">482466255</FileSize>
   <Developer>Kelvin virani</Developer>
   <Changelog>
 * November 6, 2017 Security Patch Merge
+* QS Panel Tiles Color : Pixel Blue
+* QS Panel Modifications
 * Other minimal misc
+* Welcome to PA camera
+* Improve overall System animmation lag
+* **Device Specific Changes**
+* Source sync on 24/11/2017
+* cleaning stuffs to source from old CMActions for improove stability
+* decreased heating 
+* added some some files for fixing for who has edge bug [do not enabled will enable after full fix]
+* some blobs from redmi 1s for more supportive
   </Changelog>
 </ROM>
