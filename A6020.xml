@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_A6020</RomName>
-  <VersionName>DOT-N-v1.1-20171124-A6020-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171124</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/a6020/DOT-N-v1.1-20171124-A6020-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.1-20171129-A6020-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171129</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/a6020/DOT-N-v1.1-20171129-A6020-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/a6020</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>380efecc7ae5b987e011eaee189befae</CheckMD5>
-  <FileSize type="integer">469317714</FileSize>
+  <FileSize type="integer">468706414</FileSize>
   <Developer>BlueReptile</Developer>
   <Changelog>
-* Fix Equalizer Crash
-* and few more bug fixes
+* QS Panel Tiles Color : Pixel Blue
+* QS Panel Modifications
+* Other minimal misc
   </Changelog>
 </ROM>
