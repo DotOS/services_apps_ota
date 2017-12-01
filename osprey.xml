@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_osprey</RomName>
-  <VersionName>DOT-N-v1.1-20171128-osprey-OFFICIAL</VersionName>
+  <VersionName>DOT-N-v1.1-20171201-osprey-OFFICIAL</VersionName>
   <VersionNumber type="integer">20171128</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/osprey/DOT-N-v1.1-20171128-osprey-OFFICIAL.zip</DirectUrl>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/osprey/DOT-N-v1.1-20171201-osprey-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/osprey</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>771cff10c567cc6eebd54dc3165231fb</CheckMD5>
-  <FileSize type="integer">334768567</FileSize>
+  <FileSize type="integer">336625707</FileSize>
   <Developer>Zilberto Junior (ZJRDroid)</Developer>
   <Changelog>
-  # Changelog 27/11/2017
+  # Changelog 01/12/2017
 
-* Fixed Boot
-* Added CMActions
-* Update kernel for dotOS Kernel
+* Removed CMActions
 * Minor bugs fixed
-* Torch QS Tile added again   
-
+* Torch QS Tile added again
+* Fixed Flashlight
+* Lags reduced
+* Fixed themes bugs    
+  
   </Changelog>
 </ROM>
