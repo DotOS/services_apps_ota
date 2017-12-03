@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+<!-- THIS IS AN EXAMPLE DELTA XML FILE-->
+  <RomName>dot_delta</RomName>
+  <VersionName>1</VersionName>
+  <VersionNumber type="integer">20171126</VersionNumber>
+  <DirectUrl></DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/delta</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>DDE7232146F69200203F69088BA9E929</CheckMD5>
+  <FileSize type="integer"></FileSize>
+  <Developer></Developer>
+  <Changelog>
+  </Changelog>
+</ROM>
