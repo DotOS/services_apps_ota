@@ -2,14 +2,14 @@
 <ROM> 
   <RomName>dot_kuntao</RomName> 
   <VersionName>DOT-N-v1.1-20171118-kuntao-OFFICIAL</VersionName> 
-  <VersionNumber type="integer">20171118</VersionNumber> 
-  <DirectUrl></DirectUrl> 
+  <VersionNumber type="integer">20171203</VersionNumber> 
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/kuntao/DOT-N-v1.1-20171203-kuntao-OFFICIAL.zip/download</DirectUrl> 
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/kuntao</HttpUrl>
   <Android>7.1.2</Android> 
-  <CheckMD5></CheckMD5> 
+  <CheckMD5>f168b65dcd3c589dd571391a73279a06</CheckMD5> 
   <FileSize type="integer">541065216</FileSize> <Developer>Abhay Ruparel</Developer>
   <Changelog>
-* Fixed theme
+* Fixed theme engine
 * QS Panel Tiles Color : Pixel Blue
 * QS Panel Modifications
 * Added ParanoidCamera
