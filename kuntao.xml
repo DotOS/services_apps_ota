@@ -9,12 +9,12 @@
   <CheckMD5>f168b65dcd3c589dd571391a73279a06</CheckMD5> 
   <FileSize type="integer">541065216</FileSize> <Developer>Abhay Ruparel</Developer>
   <Changelog>
-* Fixed theme engine
-* QS Panel Tiles Color : Pixel Blue
-* QS Panel Modifications
-* Added ParanoidCamera
-* No longer dark video recording using PA Camera
-* Memory leak Optimisation
-* Other minimal misc   
+* Fixed theme engine.
+* QS Panel Tiles Color : Pixel Blue.
+* QS Panel Modifications.
+* Added ParanoidCamera.
+* No longer dark video recording using PA Camera.
+* Memory leak Optimisation.
+* Other minimal misc.
   </Changelog>
 </ROM>
