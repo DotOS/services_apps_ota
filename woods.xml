@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_woods</RomName>
-  <VersionName>DOT-N-v1.1-20171119-woods-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171119</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/woods/DOT-N-v1.1-20171119-woods-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.1-20171205-woods-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171205</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/woods/DOT-N-v1.1-20171205-woods-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/woods</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>91698ad1f1cb9798f8568d4b1f8180f3</CheckMD5>
-  <FileSize type="integer">366604698</FileSize>
+  <CheckMD5>05508a760e058be1280974c41c08a547</CheckMD5>
+  <FileSize type="integer">371603091</FileSize>
   <Developer>iykeDROID™</Developer>
   <Changelog>
   **dotOS Changelog**
 -------------------
-[*] Build : Nov 19,2017 17:28(utc)
-* Bump Dot version to 1.1''
-* November Android Security patch 
-* minor fixes { [woods] specific }
-
+* Build : Dec 05,2017 18:28:22 (UTC)
+* Build : ID => NJH47F
+* Build : Clean { dotOS sources }
+* Source fixes...
+* November 6, Android Security patch 
+* minor fixes to kernel { [woods] specific }
   </Changelog>
 </ROM>
