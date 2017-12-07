@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?> <ROM>
-  <RomName>dot_x3</RomName>
+  <RomName>dot_oneplus3</RomName>
   <VersionName>DOT-N-v1.1-20171207-oneplus3-OFFICIAL.zip</VersionName>
   <VersionNumber 
-type="integer">20171122</VersionNumber>
+type="integer">20171207</VersionNumber>
   <DirectUrl>https://downloads.sourceforge.net/project/dotos-ota/oneplus3/DOT-N-v1.1-20171207-oneplus3-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/oneplus3</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>2f01c604f35b768bc0909f0b8f24fd45</CheckMD5>
-  <FileSize type="integer">510290385</FileSize>
+  <CheckMD5>6a70d060866e57a6c8f04999fbdae0f6</CheckMD5>
+  <FileSize type="integer">507393052</FileSize>
   <Developer>Ded_Boi</Developer>
   <Changelog>
-* **ROM Changes** *
+* **ROM Changes**
 - Add single tap to add QS tile feature
 - Media volume steps increased to 30
 - Fixed Dialer issue
-- QS tiles colous changes according to accent
+- QS tiles colours changes according to accent
 - dot OTA
 - Remove Equaliser for now
-- Replace Snap Czm with AOSPA Cam and OnePlus Cam
-- Replace stock gallery with OnePlus Gallery
+- Replace Snap Cam with AOSPA Cam and OnePlus Cam
 - Many more..
   </Changelog>
 </ROM>
