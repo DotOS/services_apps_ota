@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?> <ROM>
-  <RomName>dot_oneplus3</RomName>
-  <VersionName>DOT-N-v1.1-20171207-oneplus3-OFFICIAL.zip</VersionName>
+  <RomName>gcam_mod</RomName>
+  <VersionName>Google Camera 5.1.018 Mod v1.0 by @SKULSHADY.apk</VersionName>
   <VersionNumber 
-type="integer">20171207</VersionNumber>
-  <DirectUrl>https://downloads.sourceforge.net/project/dotos-ota/oneplus3/DOT-N-v1.1-20171207-oneplus3-OFFICIAL.zip</DirectUrl>
+type="integer">1.0</VersionNumber>
+  <DirectUrl>https://downloads.sourceforge.net/project/dotos-ota/oneplus3/Google Camera 5.1.018 Mod v1.0 by @SKULSHADY.apk</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/oneplus3</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>6a70d060866e57a6c8f04999fbdae0f6</CheckMD5>
-  <FileSize type="integer">507393052</FileSize>
-  <Developer>Ded_Boi</Developer>
+  <CheckMD5>f3a4d92bce4724de981a249e503a8366</CheckMD5>
+  <FileSize type="integer">38644351</FileSize>
+  <Developer>SKULSHADY</Developer>
   <Changelog>
-* **ROM Changes**
-- Add single tap to add QS tile feature
-- Media volume steps increased to 30
-- Fixed Dialer issue
-- QS tiles colours changes according to accent
-- dot OTA
-- Remove Equaliser for now
-- Replace Snap Cam with AOSPA Cam and OnePlus Cam
-- Many more..
+* **Recommended Settings**
+- HDR+ Configuration: Nexus 6 Auto
+- Model: Pixel 2 / Pixel 2 XL (or Nexus 6P if you want more detailed images)
+- HDR+ Parameters: Medium (or higher)
+- To disable the HDR+ UI button: Settings > Advanced > HDR+ Control
+- To enable ZSL: Settings > Advanced > ZSL
   </Changelog>
 </ROM>
