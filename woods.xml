@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_woods</RomName>
-  <VersionName>DOT-N-v1.1-20171119-woods-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171119</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/woods/DOT-N-v1.1-20171119-woods-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.1-20171207-woods-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171207</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/woods/DOT-N-v1.1-20171207-woods-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/woods</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>91698ad1f1cb9798f8568d4b1f8180f3</CheckMD5>
-  <FileSize type="integer">366604698</FileSize>
+  <CheckMD5>4f5fe4021ce95bfc2a38d987d74f5eb3</CheckMD5>
+  <FileSize type="integer">371603579</FileSize>
   <Developer>iykeDROID™</Developer>
   <Changelog>
-  **dotOS Changelog**
+  ** dotOS Changelog**
 -------------------
-[*] Build : Nov 19,2017 17:28(utc)
-* Bump Dot version to 1.1''
-* November Android Security patch 
-* minor fixes { [woods] specific }
-
+    Droid On Time!
+    
+* Build : Thu Dec 7,2017 09:40:29 (UTC)
+* Build : ID => NJH47F
+* Incremental version : 8c75e4584d
+* Device Maintainers added to About dotOS...
+* Quick Settings themes fixed
+* fixes to kernel (gcc;UBERTC patches) { [woods] specific }
   </Changelog>
 </ROM>
