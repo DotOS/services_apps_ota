@@ -1,39 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_x3</RomName>
-  <VersionName>DOT-N-v1.1-20171122-x3-OFFICIAL.zip</VersionName>
-  <VersionNumber type="integer">20171122</VersionNumber>
-  <DirectUrl>https://downloads.sourceforge.net/project/dotos-ota/x3/DOT-N-v1.1-20171122-x3-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.1-20171209-x3-OFFICIAL.zip</VersionName>
+  <VersionNumber type="integer">20171209</VersionNumber>
+  <DirectUrl>https://downloads.sourceforge.net/project/dotos-ota/x3/DOT-N-v1.1-20171209-x3-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/x3</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>e0de4f3f8c5519603e0338d30aabd941</CheckMD5>
-  <FileSize type="integer">510591117</FileSize>
+  <CheckMD5>43b90dc500df356016bbda4a6d7a474e</CheckMD5>
+  <FileSize type="integer">510691117</FileSize>
   <Developer>Psycho Mods</Developer>
   <Changelog>
 * **ROM Changes**  
-* Bump Dot version to v1.1
-* Fingerprint: Setting up Pattern/Pin Fc fixed
-* dotOTA added(OTA system adapted for official devices)
-* fix dot version unknown
-* speed up lockscreen anims
-* Improve overall System animmation lag
-* Added timber as default music app
-* Display :Qspanel theme engine
-* QS tile titles visibility
-* Memory leak Optimisation
-* Three Finger Swipe for Screenshot
-* Advanced Bluetooth, Data, Wifi Toggles
-* Screenshot crop and share
-* Fingerprint authentication vibration
-* dotpapers: New walls added
-* Pocket mode added
-* added camera sound toggle
-* Allow disabling of FC dialogs
-* QS Header Icon settings
-* and few more bug fixes
-* Nov security patch
-* 
-* **Device Specific Changes**
-* Kernel upstream to 3.10.108
+* Updated ROM to latest 9 December sources.
+* Accent coloured quick settings tiles.
+**Device Specific Changes**
+* Fixed those random crashes and reboots.
+* Removed Non working stuff.
   </Changelog>
 </ROM>
