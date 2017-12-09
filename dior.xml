@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_dior</RomName>
-  <VersionName>DOT-N-v1.1-20171128-dior-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171128</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/dior/DOT-N-v1.1-20171128-dior-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.1-20171208-dior-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171208</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/dior/DOT-N-v1.1-20171208-dior-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/dior</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>a4b73363b6d8c3f6dba96661521c55e0</CheckMD5>
-  <FileSize type="integer">482466255</FileSize>
+  <CheckMD5>f39ca618c17fc0dabafdc9122feff5c9</CheckMD5>
+  <FileSize type="integer">371603579</FileSize>
   <Developer>Kelvin virani</Developer>
   <Changelog>
-* November 6, 2017 Security Patch Merge
-* QS Panel Tiles Color : Pixel Blue
-* QS Panel Modifications
-* Other minimal misc
-* Welcome to PA camera
-* Improve overall System animmation lag
-* **Device Specific Changes**
-* Source sync on 24/11/2017
-* cleaning stuffs to source from old CMActions for improove stability
-* decreased heating 
-* added some some files for fixing for who has edge bug [do not enabled will enable after full fix]
-* some blobs from redmi 1s for more supportive
+ ** dotOS Changelog**
+-------------------
+    Droid On Time!
+
+    * Device Maintainers added to About dotOS...
+    * Now enabled PA camera
+    * QS Panel Tiles Color Tracks the color Accent
+    * Changable by Colour Engine or Substratum Themes
+    * Settings/About Phone/About dotOS [click dot logo]
+    + Added Maintainers list
+    
+    device specific
+    * fixed unnesessorry stuffs which cause lags on last version
+    * optiised for better stability
+    * now rom should more supportive
+    * added parameters for for support both camera
+    * and some other fixes for bugs which i wrongly added on last build
   </Changelog>
 </ROM>
