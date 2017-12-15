@@ -1,31 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_dior</RomName>
-  <VersionName>DOT-N-v1.1-20171208-dior-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171208</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/dior/DOT-N-v1.1-20171208-dior-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20171215-dior-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171215</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/dior/DOT-N-v1.2-20171215-dior-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/dior</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>f39ca618c17fc0dabafdc9122feff5c9</CheckMD5>
-  <FileSize type="integer">371603579</FileSize>
+  <CheckMD5>a3bca4b9758b3590b680776422c21cc8</CheckMD5>
+  <FileSize type="integer">332878170</FileSize>
   <Developer>Kelvin virani</Developer>
   <Changelog>
  ** dotOS Changelog**
 -------------------
     Droid On Time!
 
-    * Device Maintainers added to About dotOS...
-    * Now enabled PA camera
-    * QS Panel Tiles Color Tracks the color Accent
-    * Changable by Colour Engine or Substratum Themes
-    * Settings/About Phone/About dotOS [click dot logo]
-    + Added Maintainers list
+    * welcome to dotos-1.2
+    * Merged December Security patch
+    *More visual bug fixes
+    *QS tiles track color accent.
+    *Added Network Indicator (Settings->Data Usage).
+    *Added Changelog section inside About.
+    *New settings icons.
+    *Re-work on overall app icons.
+    *Some new dope walls.
+    *And many more bug fixes and performace enhancements.
+
     
     device specific
-    * fixed unnesessorry stuffs which cause lags on last version
-    * optiised for better stability
-    * now rom should more supportive
-    * added parameters for for support both camera
-    * and some other fixes for bugs which i wrongly added on last build
+    * cleaned and reset all repos for more efficiency
+    * more supportive audio
+    * tweaks for latest security patch
   </Changelog>
 </ROM>
