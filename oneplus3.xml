@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?> <ROM>
-  <RomName>gcam_mod</RomName>
-  <VersionName>Google_Camera_5.1.018_Mod_v1.0_by_SKULSHADY.apk</VersionName>
+  <RomName>dot_oneplus3</RomName>
+  <VersionName>DOT-N-v1.2-20171215-oneplus3-OFFICIAL.zip</VersionName>
   <VersionNumber 
-type="integer">1.0</VersionNumber>
-  <DirectUrl>https://downloads.sourceforge.net/project/dotos-ota/oneplus3/Extras/Google_Camera_5.1.018_Mod_v1.0_by_SKULSHADY.apk</DirectUrl>
-  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/oneplus3/Extras</HttpUrl>
+  <VersionNumber type="integer">20171215</VersionNumber>
+  <DirectUrl>https://downloads.sourceforge.net/project/dotos-ota/oneplus3/DOT-N-v1.2-20171215-oneplus3-OFFICIAL.zip</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/oneplus3</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>f3a4d92bce4724de981a249e503a8366</CheckMD5>
-  <FileSize type="integer">38644351</FileSize>
-  <Developer>SKULSHADY</Developer>
+  <CheckMD5>e2331035832804d1db7696d688113b41</CheckMD5>
+  <FileSize type="integer">536907886</FileSize>
+  <Developer>Ded_Boi</Developer>
   <Changelog>
-* **Recommended Settings**
-- HDR+ Configuration: Nexus 6 Auto
-- Model: Pixel 2 / Pixel 2 XL (or Nexus 6P if you want more detailed images)
-- HDR+ Parameters: Medium (or higher)
-- To disable the HDR+ UI button: Settings > Advanced > HDR+ Control
-- To enable ZSL: Settings > Advanced > ZSL
+* **ROM Changes**
+- QS tiles colours changes according to accent only on Dot O theme
+- Merged Dec Security Patch
+- Power Menu and other bugs fixed
+- Add Network Speed Indicator (Settings>Data Usage)
+- Added Changelogs in about section
+- Redesigned Settings icons and app icons (Round Icons)
+- New Dope Walls
+- Added Framework Boost (Dot is now smoother than ever)
+- Many more bug fixes n improvements
+
+- GCam downloads :- https://www.androidfilehost.com/?w=files&flid=235567
+
   </Changelog>
 </ROM>
