@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <RomName>dot_x3</RomName>
-  <VersionName>DOT-N-v1.2-20171215-x3-OFFICIAL.zip</VersionName>
+  <RomName>dot_jalebi</RomName>
+  <VersionName>DOT-N-v1.2-20171215-jalebi-OFFICIAL.zip</VersionName>
   <VersionNumber type="integer">20171215</VersionNumber>
-  <DirectUrl>https://downloads.sourceforge.net/project/dotos-ota/x3/DOT-N-v1.2-20171215-x3-OFFICIAL.zip</DirectUrl>
-  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/x3</HttpUrl>
+  <DirectUrl>https://downloads.sourceforge.net/project/dotos-ota/jalebi/DOT-N-v1.2-20171215-jalebi-OFFICIAL.zip</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/jalebi</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>6ea3d230085820b388cf9b71ff00316a</CheckMD5>
-  <FileSize type="integer">505535094</FileSize>
-  <Developer>Psycho Mods</Developer>
+  <CheckMD5>c657209dc2e17229f83f8fd650774f8f</CheckMD5>
+  <FileSize type="integer">336966135</FileSize>
+  <Developer>Maaz Muzammil</Developer>
   <Changelog>
 * **ROM Changes**  
 *Version bump to v1.2

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <RomName>dot_dior</RomName>
-  <VersionName>DOT-N-v1.2-20171215-dior-OFFICIAL</VersionName>
+  <RomName>dot_lettuce</RomName>
+  <VersionName>DOT-N-v1.2-20171215-lettuce-OFFICIAL.zip</VersionName>
   <VersionNumber type="integer">20171215</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/dior/DOT-N-v1.2-20171215-dior-OFFICIAL.zip</DirectUrl>
-  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/dior</HttpUrl>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/lettuce/DOT-N-v1.2-20171215-lettuce-OFFICIAL.zip</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/lettuce</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>a3bca4b9758b3590b680776422c21cc8</CheckMD5>
-  <FileSize type="integer">332878170</FileSize>
-  <Developer>Kelvin virani</Developer>
+  <CheckMD5>0171805c81487e34bd7297d662fae487</CheckMD5>
+  <FileSize type="integer">450428745</FileSize>
+  <Developer>Abhinav Gupta(agrd1129)</Developer>
   <Changelog>
- ** dotOS Changelog**
--------------------
+  ** dotOS Changelog**
+  -------------------
     Droid On Time!
 
     * welcome to dotos-1.2
