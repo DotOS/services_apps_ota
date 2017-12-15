@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_x3</RomName>
-  <VersionName>DOT-N-v1.1-20171209-x3-OFFICIAL.zip</VersionName>
-  <VersionNumber type="integer">20171209</VersionNumber>
-  <DirectUrl>https://downloads.sourceforge.net/project/dotos-ota/x3/DOT-N-v1.1-20171209-x3-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20171215-x3-OFFICIAL.zip</VersionName>
+  <VersionNumber type="integer">20171215</VersionNumber>
+  <DirectUrl>https://downloads.sourceforge.net/project/dotos-ota/x3/DOT-N-v1.2-20171215-x3-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/x3</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>43b90dc500df356016bbda4a6d7a474e</CheckMD5>
-  <FileSize type="integer">510691117</FileSize>
+  <CheckMD5>6ea3d230085820b388cf9b71ff00316a</CheckMD5>
+  <FileSize type="integer">505535094</FileSize>
   <Developer>Psycho Mods</Developer>
   <Changelog>
 * **ROM Changes**  
-* Updated ROM to latest 9 December sources.
-* Accent coloured quick settings tiles.
-**Device Specific Changes**
-* Fixed those random crashes and reboots.
-* Removed Non working stuff.
+*Version bump to v1.2
+*Merged December Security patch
+*More visual bug fixes
+*QS tiles track color accent in Dot O theme.
+*Dot pixel theme has been made to have the same O white feel except with no QS tiles tint.
+*Added Network Indicator (Settings->Data Usage).
+*Added Changelog section inside About.
+*New settings icons.
+*Re-work on overall app icons.
+*Some new dope walls.
+*And many more bug fixes and performace enhancements.
   </Changelog>
 </ROM>
