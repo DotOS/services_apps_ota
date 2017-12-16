@@ -1,42 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_santoni</RomName>
-  <VersionName>DOT-N-v1.1-20171124-santoni-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171124</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/santoni/DOT-N-v1.1-20171124-santoni-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20171216-santoni-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171216</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/santoni/DOT-N-v1.2-20171216-santoni-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/santoni</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>86c1ce15101308a957de6decb587cb9f</CheckMD5>
-  <FileSize type="integer">531376657</FileSize>
+  <CheckMD5>bcb7c330621acec045903dcfd70e6acc</CheckMD5>
+  <FileSize type="integer">527209357</FileSize>
   <Developer>Nikesh Kataria</Developer>
   <Changelog>
   # Changelog
-* **ROM Changes**  
-* Bump Dot version to v1.1
-* Fingerprint: Setting up Pattern/Pin Fc fixed
-* dotOTA added(OTA system adapted for official devices)
-* fix dot version unknown
-* speed up lockscreen anims
-* Improve overall System animmation lag
-* Added timber as default music app
-* Display :Qspanel theme engine
-* QS tile titles visibility
-* Memory leak Optimisation
-* Three Finger Swipe for Screenshot
-* Advanced Bluetooth, Data, Wifi Toggles
-* Screenshot crop and share
-* Fingerprint authentication vibration
-* dotpapers: New walls added
-* Pocket mode added
-* added camera sound toggle
-* Allow disabling of FC dialogs
-* QS Header Icon settings
-* and few more bug fixes
-* Nov security patch
-* **Device Specific Changes**
-* Bumped to version 1.1
-* Tweaks to increase battery backup
-* Control idle battery drain
-* Source sync on 24/11/2017
+  * **ROM Changes**  
+  *Version bump to v1.2
+  *Merged December Security patch
+  *More visual bug fixes
+  *QS tiles track color accent in Dot O theme.
+  *Dot pixel theme has been made to have the same O white feel except with no QS tiles tint.
+  *Added Network Indicator (Settings->Data Usage).
+  *Added Changelog section inside About.
+  *New settings icons.
+  *Re-work on overall app icons.
+  *Some new dope walls.
+  *And many more bug fixes and performace enhancements.
+  * **Device Specific Changes**
+  * Bumped to version 1.2
+  * Used CAF kernel
+  * Kernel upstream to 3.18.87
+  * Flac audio Fixed
+  * Fixed BT Address
+  * Improvement in performance
+  * Fixed Battery Drain
+  * Source sync on 16/12/2017
+  * Fixed Fastcharge
   </Changelog>
 </ROM>
+ 
+
