@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM> 
   <RomName>dot_kuntao</RomName> 
-  <VersionName>DOT-N-v1.1-20171118-kuntao-OFFICIAL</VersionName> 
-  <VersionNumber type="integer">20171118</VersionNumber> 
-  <DirectUrl></DirectUrl> 
+  <VersionName>DOT-N-v1.2-20171214-kuntao-OFFICIAL</VersionName> 
+  <VersionNumber type="integer">20171215</VersionNumber> 
+  <DirectUrl>https://downloads.sourceforge.net/project/dotos-ota/kuntao/DOT-N-v1.2-20171215-kuntao-OFFICIAL.zip?r=&ts=1513391818&use_mirror=excellmedia </DirectUrl> 
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/kuntao</HttpUrl>
   <Android>7.1.2</Android> 
-  <CheckMD5></CheckMD5> 
-  <FileSize type="integer">541065216</FileSize> <Developer>Abhay Ruparel</Developer>
+  <CheckMD5>0e9434b8a61f21485326a8d32b0341fe</CheckMD5> 
+  <FileSize type="integer">548929536</FileSize> <Developer>Abhay Ruparel</Developer>
   <Changelog>
-* Fixed theme
-* QS Panel Tiles Color : Pixel Blue
-* QS Panel Modifications
-* Added ParanoidCamera
-* No longer dark video recording using PA Camera
-* Memory leak Optimisation
-* Other minimal misc   
+*Version bump to v1.2
+*Merged December Security patch
+*More visual bug fixes
+*QS tiles track color accent in Dot O theme.
+*Dot pixel theme has been made to have the same O white feel except with no QS tiles tint.
+*Added Network Indicator (Settings->Data Usage).
+*Added Changelog section inside About.
+*New settings icons.
+*Re-work on overall app icons.
+*Some new dope walls.
+*And many more bug fixes and performace enhancements.   
   </Changelog>
 </ROM>
