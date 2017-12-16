@@ -10,21 +10,21 @@
   <FileSize type="integer">364872131</FileSize>
   <Developer>iykeDROID™</Developer>
   <Changelog>
- * **dotOS Changelog**
+* **dotOS Changelog**
 -------------------
     Droid On Time!
     
-*Version bump to v1.2
-*Merged December Security patch
-*More visual bug fixes
-*QS tiles track color accent in Dot O theme.
-*Dot pixel theme has been made to have the same O white feel except with no QS tiles tint.
-*Added Network Indicator (Settings->Data Usage).
-*Added Changelog section inside About.
-*New settings icons.
-*Re-work on overall app icons.
-*Some new dope walls.
-*Fixed time keep service.
-*And many more bug fixes and performace enhancements.
+* Version bump to v1.2
+* Merged December Security patch
+* More visual bug fixes
+* QS tiles track color accent in Dot O theme.
+* Dot pixel theme has been made to have the same O white feel except with no QS tiles tint.
+* Added Network Indicator (Settings->Data Usage).
+* Added Changelog section inside About.
+* New settings icons.
+* Re-work on overall app icons.
+* Some new dope walls.
+* Fixed time keep service.
+* And many more bug fixes and performace enhancements.
   </Changelog>
 </ROM>
