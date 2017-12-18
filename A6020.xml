@@ -10,8 +10,14 @@
   <FileSize type="integer">468706414</FileSize>
   <Developer>Yash Garg</Developer>
   <Changelog>
-* QS Panel Tiles Color : Pixel Blue
-* QS Panel Modifications
-* Other minimal misc
+    *Version Bump To v1.2
+    *Added Traffic Indicators In Setting > Data Usage
+    *Merged December Security Patch
+    *Some Visual Bug Fixes
+    *New Settings Icon
+    *Added Changelog Section In About
+    *Some New Dope Walls
+    *Re-Work On Overall App Icons
+    *And Many More Bug Fixes And Performance Enhancements
   </Changelog>
 </ROM>
