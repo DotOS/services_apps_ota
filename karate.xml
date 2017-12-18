@@ -10,5 +10,13 @@
   <FileSize type="integer">483784418</FileSize>
   <Developer>Bala</Developer>
   <Changelog>
-* Bump Dot version to v1.2 </Changelog>
+    *Merged December Security Patch
+    *More visual bug fixes
+    *QS tiles track color accent
+    *Added Network indicator(Settings-Data Usage)
+    *New settings icons
+    *Re-work on overall app icons
+    *some new dope walls
+    *And many more bug fixes and performance enhancements
+ </Changelog>
 </ROM>
