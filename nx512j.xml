@@ -1,30 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_nx512j</RomName>
-  <VersionName>DOT-N-v1.2-20171215-nx512j-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171215</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/nx512j/DOT-N-v1.2-20171215-nx512j-OFFICIAL.zip/download</DirectUrl>
+  <VersionName></VersionName>
+  <VersionNumber type="integer">20171220</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/nx512j/</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/nx512j</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>953d922057f873338f08ffc3154727b8</CheckMD5>
-  <FileSize type="integer">467969167</FileSize>
-  <Developer>Bauuuuu</Developer>
+  <CheckMD5>DOT_OTA_MD5</CheckMD5>
+  <FileSize type="integer">DOT_OTA_FILESIZE</FileSize>
   <Changelog>
-* **dotOS Changelog**
--------------------
-    Droid On Time!
-    
-* Version bump to v1.2
-* Merged December Security patch
-* More visual bug fixes
-* QS tiles track color accent in Dot O theme.
-* Dot pixel theme has been made to have the same O white feel except with no QS tiles tint.
-* Added Network Indicator (Settings->Data Usage).
-* Added Changelog section inside About.
-* New settings icons.
-* Re-work on overall app icons.
-* Some new dope walls.
-* Fixed time keep service.
-* And many more bug fixes and performace enhancements.
+    *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
 </ROM>
