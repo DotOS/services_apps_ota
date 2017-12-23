@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_lettuce</RomName>
-  <VersionName>DOT-N-v1.2-20171215-lettuce-OFFICIAL.zip</VersionName>
-  <VersionNumber type="integer">20171215</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/lettuce/DOT-N-v1.2-20171215-lettuce-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-201712123-lettuce-OFFICIAL.zip</VersionName>
+  <VersionNumber type="integer">20171223</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/lettuce/DOT-N-v1.2-20171223-lettuce-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/lettuce</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>0171805c81487e34bd7297d662fae487</CheckMD5>
-  <FileSize type="integer">450428745</FileSize>
+  <CheckMD5>c233ef13ff678a521a14d913f4f9d94c</CheckMD5>
+  <FileSize type="integer">446546357</FileSize>
   <Developer>Abhinav Gupta(agrd1129)</Developer>
   <Changelog>
   ** dotOS Changelog**
   -------------------
     Droid On Time!
 
-    * welcome to dotos-1.2
-    * Merged December Security patch
+    *welcome to dotos-1.2
+    *Merged December Security patch
     *More visual bug fixes
     *QS tiles track color accent.
     *Added Network Indicator (Settings->Data Usage).
@@ -23,11 +23,14 @@
     *New settings icons.
     *Re-work on overall app icons.
     *Some new dope walls.
+    *fixed systemui fc
     *And many more bug fixes and performace enhancements.
+    
 
     
     device specific
-    * cleaned and reset all repos for more efficiency
+    * used clang TC
+    * bcleaned and reset all repos for more efficiency
     * more supportive audio
     * tweaks for latest security patch
   </Changelog>
