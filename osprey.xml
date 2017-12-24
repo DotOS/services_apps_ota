@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_osprey</RomName>
-  <VersionName>DOT-N-v1.2-20171214-osprey-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171214</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/osprey/DOT-N-v1.2-20171214-osprey-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20171223-osprey-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171223</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/osprey/DOT-N-v1.2-20171223-osprey-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/osprey</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>2bfcdd45fa89a6e3d3d2554364dde4e3</CheckMD5>
@@ -13,16 +13,8 @@
   # Changelog
 
 *Version bump to v1.2
-*Merged to December Security patch
-*More visual bug fixes
-*QS tiles track color accent in Dot O theme.
-*Dot pixel theme has been made to have the same O white feel except with no QS tiles tint.
-*Added Network Indicator (Settings->Data Usage).
-*Added Changelog section inside About.
-*New settings icons.
-*Re-work on overall app icons.
-*Some new dope walls.
-*And many more bug fixes and performace enhancements
+*Added Snap Camera again
+*Fixed some bugs    
   
   </Changelog>
 </ROM>
