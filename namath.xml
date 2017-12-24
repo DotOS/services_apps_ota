@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_namath</RomName>
+  <VersionName></VersionName>
+  <VersionNumber type="integer">20171224</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/namath/.zip</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/namath</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>DOT_OTA_MD5</CheckMD5>
+  <FileSize type="integer">DOT_OTA_FILESIZE</FileSize>
+  <Changelog>
+    *Check dotOS telegram channel for weekly changelogs.
+  </Changelog>
+</ROM>
