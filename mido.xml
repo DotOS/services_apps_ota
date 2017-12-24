@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_mido</RomName>
-  <VersionName>DOT-N-v1.1-20171208-mido-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171208</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/mido/DOT-N-v1.1-20171208-mido-OFFICIAL.zip</DirectUrl>
-  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/mido</HttpUrl>
+  <VersionName>DOT-N-v1.1-20171223-mido-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171223</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/dotos_tests/DOT-N-v1.1-20171223-mido-OFFICIAL.zip</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/dotos_tests</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>ED310F0578EF3FFF4CCC888E114B37FA</CheckMD5>
-  <FileSize type="integer">487669494</FileSize>
+  <FileSize type="integer">478123309</FileSize>
   <Developer>Iacob Ionut</Developer>
   <Changelog>
-* QS Panel Tiles Color Tracks the color Accent
-    * Changable by Colour Engine or Substratum Themes
-- Issue : Power Menu on dark themes
-    * Can work on some heavy resource themes
-* Settings/About Phone/About dotOS [click dot logo]
-    + Added Maintainers list
+* added framework boost.
+* minor glitch fixes with qs panel.  (systemui FC on qs panel is still WIP)
+* fixed invisible gear icon in settings top bar.
   </Changelog>
 </ROM>
