@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_alice</RomName>
-  <VersionName>DOT-N-v1.2-20171215-alice-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171215</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/alice/DOT-N-v1.1-20171215-alice-OFFICIAL.zip</DirectUrl>
+  <VersionName></VersionName>
+  <VersionNumber type="integer">20171224</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/alice/.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/alice</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>2462adf69f04720a8531babd50966a66</CheckMD5>
-  <FileSize type="integer">465784418</FileSize>
-  <Developer>XTutorials</Developer>
+  <CheckMD5>DOT_OTA_MD5</CheckMD5>
+  <FileSize type="integer">DOT_OTA_FILESIZE</FileSize>
   <Changelog>
-*GPS Fixed partially
-*Stablity fixes
-*Lags fixed
-*Bump Dot version to v1.2
-*Merged to December Security patch
-*More visual bug fixes
-*QS tiles track color accent in Dot O theme.
-*Dot pixel theme has been made to have the same O white feel except with no QS tiles tint.
-*Added Network Indicator (Settings->Data Usage).
-*Added Changelog section inside About.
-*New settings icons.
-*Re-work on overall app icons.
-*Some new dope walls.
-*And many more bug fixes and performace enhancements
-</Changelog>
+    *Check dotOS telegram channel for weekly changelogs.
+  </Changelog>
 </ROM>
