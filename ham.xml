@@ -1,29 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_ham</RomName>
-  <VersionName>DOT-N-v1.2-20171215-ham-OFFICIAL.zip</VersionName>
-  <VersionNumber type="integer">20171215</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/ham/DOT-N-v1.2-20171215-ham-OFFICIAL.zip/download</DirectUrl>
+  <VersionName></VersionName>
+  <VersionNumber type="integer">20171224</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/ham/.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/ham</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>bb625298e3288a2b861d229df8a11acd</CheckMD5>
-  <FileSize type="integer">372244480</FileSize>
-  <Developer>sriram prakhya</Developer>
+  <CheckMD5>DOT_OTA_MD5</CheckMD5>
+  <FileSize type="integer">DOT_OTA_FILESIZE</FileSize>
   <Changelog>
-*GPS Fixed partially
-*Stablity fixes
-*Lags fixed
-*Bump Dot version to v1.2
-*Merged to December Security patch
-*More visual bug fixes
-*QS tiles track color accent in Dot O theme.
-*Dot pixel theme has been made to have the same O white feel except with no QS tiles tint.
-*Added Network Indicator (Settings->Data Usage).
-*Added Changelog section inside About.
-*New settings icons.
-*Re-work on overall app icons.
-*Some new dope walls.
-*And many more bug fixes and performace enhancements
-*add 4k uhd recording and mode
+    *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
 </ROM>
