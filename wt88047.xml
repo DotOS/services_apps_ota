@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_wt88047</RomName>
+  <VersionName></VersionName>
+  <VersionNumber type="integer">20171225</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/wt88047/.zip</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/wt88047</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>DOT_OTA_MD5</CheckMD5>
+  <FileSize type="integer">DOT_OTA_FILESIZE</FileSize>
+  <Changelog>
+    *Check dotOS telegram channel for weekly changelogs.
+  </Changelog>
+</ROM>
