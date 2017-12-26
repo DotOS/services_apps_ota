@@ -2,7 +2,7 @@
 <ROM>
   <RomName>dot_z2_plus</RomName>
   <VersionName></VersionName>
-  <VersionNumber type="integer">20171224</VersionNumber>
+  <VersionNumber type="integer">20171226</VersionNumber>
   <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/z2_plus/</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/z2_plus</HttpUrl>
   <Android>7.1.2</Android>
