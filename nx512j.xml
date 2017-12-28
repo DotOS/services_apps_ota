@@ -2,12 +2,12 @@
 <ROM>
   <RomName>dot_nx512j</RomName>
   <VersionName></VersionName>
-  <VersionNumber type="integer">20171224</VersionNumber>
+  <VersionNumber type="integer">20171228</VersionNumber>
   <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/nx512j/.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/nx512j</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>DOT_OTA_MD5</CheckMD5>
-  <FileSize type="integer">DOT_OTA_FILESIZE</FileSize>
+  <CheckMD5></CheckMD5>
+  <FileSize type="integer"></FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
