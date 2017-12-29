@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_nx512j</RomName>
-  <VersionName></VersionName>
-  <VersionNumber type="integer">20171228</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/nx512j/.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20171229-nx512j-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171230</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/nx512j/DOT-N-v1.2-20171229-nx512j-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/nx512j</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5></CheckMD5>
-  <FileSize type="integer"></FileSize>
+  <CheckMD5>2980fbf4afe65fac194f53b850b62f06</CheckMD5>
+  <FileSize type="integer">463341092</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
