@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_ham</RomName>
-  <VersionName></VersionName>
-  <VersionNumber type="integer">20171224</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/ham/.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20171229-ham-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171229</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/ham/DOT-N-v1.2-20171229-ham-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/ham</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>DOT_OTA_MD5</CheckMD5>
-  <FileSize type="integer">DOT_OTA_FILESIZE</FileSize>
+  <CheckMD5>e2500da5879ec00e9457de4691ff806b</CheckMD5>
+  <FileSize type="integer">372684767</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
