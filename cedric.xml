@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_cedric</RomName>
+  <VersionName>DOT-N-v1.2-20171229-cedric-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171229</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/cedric/DOT-N-v1.2-20171229-cedric-OFFICIAL.zip</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/cedric</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>29a0dd97ca7ead23db7096f8cecfbff6</CheckMD5>
+  <FileSize type="integer">380559554</FileSize>
+  <Changelog>
+    *Check dotOS telegram channel for weekly changelogs.
+  </Changelog>
+</ROM>
