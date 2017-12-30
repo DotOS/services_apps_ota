@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_Z010D</RomName>
-  <VersionName>DOT-N-v1.2-20171224-Z010D-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171224</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/Z010D/DOT-N-v1.2-20171224-Z010D-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20171230-Z010D-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171230</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/Z010D/DOT-N-v1.2-20171230-Z010D-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/Z010D</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>5fbd551aa5b5aeef0de713f4120ea477</CheckMD5>
-  <FileSize type="integer">502267904</FileSize>
+  <CheckMD5>a4fc2118ea4b33253f9c4885b2826a65</CheckMD5>
+  <FileSize type="integer">502036096</FileSize>
   <Changelog>
-    *Version bump to v1.2
-*Merged December Security patch
-*More visual bug fixes
-*QS tiles track color accent in Dot O theme.
-*Dot pixel theme has been made to have the same O white feel except with no QS tiles tint.
-*Added Network Indicator (Settings->Data Usage).
-*Added Changelog section inside About.
-*New settings icons.
-*Re-work on overall app icons.
-*Some new dope walls.
-*And many more bug fixes and performace enhancements.
+    *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
 </ROM>
