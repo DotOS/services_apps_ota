@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_x3</RomName>
-  <VersionName>DOT-N-v1.2-20171224-x3-OFFICIAL.zip</VersionName>
-  <VersionNumber type="integer">20171224</VersionNumber>
-  <DirectUrl>https://downloads.sourceforge.net/project/dotos-ota/x3/DOT-N-v1.2-20171224-x3-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20171230-x3-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171230</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/x3/DOT-N-v1.2-20171230-x3-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/x3</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>ef66c5947667a917a736fdfcaf67aac8</CheckMD5>
-  <FileSize type="integer">506000000</FileSize>
-  <Developer>Psycho Mods</Developer>
+  <CheckMD5>14769d05360ca3789fba46c6882045bb</CheckMD5>
+  <FileSize type="integer">506007211</FileSize>
   <Changelog>
-* **ROM Changes**  
-* added framework boost.
-* minor glitch fixes with qs panel.  (systemui FC on qs panel is still WIP)
-* fixed invisible gear icon in settings top bar.
+    *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
 </ROM>
