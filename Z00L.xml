@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_Z00L</RomName>
-  <VersionName></VersionName>
-  <VersionNumber type="integer">20171224</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/Z00L/</DirectUrl>
+  <VersionName>DOT-N-v1.2-20171230-Z00L-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171230</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/Z00L/DOT-N-v1.2-20171230-Z00L-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/Z00L</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>DOT_OTA_MD5</CheckMD5>
-  <FileSize type="integer">DOT_OTA_FILESIZE</FileSize>
+  <CheckMD5>2d33476fb4847ae90e09233ad1bac8e4</CheckMD5>
+  <FileSize type="integer">570280947</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
