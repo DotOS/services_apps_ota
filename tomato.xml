@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_tomato</RomName>
-  <VersionName>DOT-N-v1.1-20171119-kenzo-OFFICIAL.zip</VersionName>
-  <VersionNumber type="integer">20171119</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/tomato/DOT-N-v1.1-20171212-tomato-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20171230-tomato-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171230</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/tomato/DOT-N-v1.2-20171230-tomato-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/tomato</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>d0869d01dc6db3ba8f2f24842d225d09</CheckMD5>
-  <FileSize type="integer">445443104</FileSize>
-  <Developer>Neeraj(thakurfazer55)</Developer>
+  <CheckMD5>5731c6ad27b05d84ac9e43ef00c4840a</CheckMD5>
+  <FileSize type="integer">439712440</FileSize>
   <Changelog>
-  # Changelog
-    * Device Maintainers added to About dotOS 
-    * Now enabled PA camera
-    * QS Panel Tiles Color Tracks the color Accent
-    * Changable by Colour Engine or Substratum Themes
-    * Settings/About Phone/About dotOS [click dot logo]
-    * Network Traffic indicator added
-    * Quick Settings themes fixed
-    * and few more bug fixes
+    *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
 </ROM>
