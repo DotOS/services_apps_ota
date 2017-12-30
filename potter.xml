@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_potter</RomName>
-  <VersionName>DOT-N-v1.1-20171207-potter-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171207</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/potter/DOT-N-v1.1-20171207-potter-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20171230-potter-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171230</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/potter/DOT-N-v1.2-20171230-potter-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/potter</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>005f256b83d3ea785a049ad532316c38</CheckMD5>
-  <FileSize type="integer">400673280</FileSize>
-  <Developer>Anshuman Mishra</Developer>
+  <CheckMD5>97de9bfcf6d82044728ccb69e7e93d3a</CheckMD5>
+  <FileSize type="integer">395446021</FileSize>
   <Changelog>
-  # Changelog
-
-Note- U have to flash updates manually
-
-- Moar bugs fixed
-- PA cam added
-- Network Traffic indicator added
-- alize is default
-</Changelog>
+    *Check dotOS telegram channel for weekly changelogs.
+  </Changelog>
 </ROM>
-
-
-
-
-
-
