@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_kenzo</RomName>
-  <VersionName>DOT-N-v1.2-20171229-kenzo-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171229</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/kenzo/DOT-N-v1.2-20171229-kenzo-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20171230-kenzo-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171230.</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/kenzo/DOT-N-v1.2-20171230-kenzo-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/kenzo</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>40d00cdd76c4843561d9b99aaa9f7b3e</CheckMD5>
+  <CheckMD5>6cf2d7fdb965f44c76ca6504b486f9e3</CheckMD5>
   <FileSize type="integer">478098903</FileSize>
   <Changelog>
-    *Check dotOS telegram channel for weekly changelogs.
+      <Changelog>
+    *fixed fp lag (fw boost)
+    *fixed lockscreen blur
+    *Check dotOS telegram channel for more detailed weekly changelogs.
   </Changelog>
 </ROM>
