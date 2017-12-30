@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_oneplus3</RomName>
-  <VersionName></VersionName>
-  <VersionNumber type="integer">20171225</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/oneplus3/.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20171229-oneplus3-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171230</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/oneplus3/DOT-N-v1.2-20171229-oneplus3-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/oneplus3</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>DOT_OTA_MD5</CheckMD5>
-  <FileSize type="integer">DOT_OTA_FILESIZE</FileSize>
+  <CheckMD5>41e467c84c36dad7adfbb5ce921ddb11</CheckMD5>
+  <FileSize type="integer">528263904</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
