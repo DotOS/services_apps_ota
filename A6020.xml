@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_A6020</RomName>
-  <VersionName>DOT-N-v1.2-20171230-A6020-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171230</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/A6020/DOT-N-v1.2-20171230-A6020-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20171231-A6020-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171231</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/A6020/DOT-N-v1.2-20171231-A6020-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/A6020</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>2ef8e43bc00e7d49aebc2c5b50532f08</CheckMD5>
-  <FileSize type="integer">455473714</FileSize>
+  <CheckMD5>1c9b1b98b0d0bc133ffc2d53cfa964d6</CheckMD5>
+  <FileSize type="integer">455442153</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
