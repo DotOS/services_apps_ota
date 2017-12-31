@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_armani</RomName>
-  <VersionName>DOT-N-v1.2-20171229-armani-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171229</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/armani/DOT-N-v1.2-20171229-armani-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20171231-armani-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171231</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/armani/DOT-N-v1.2-20171231-armani-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/armani</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>6e07586eea5ef117f8c650a6ccdcbc2a</CheckMD5>
-  <FileSize type="integer">326275653</FileSize>
+  <CheckMD5>cae05900732b779de9aa59b341920bbd</CheckMD5>
+  <FileSize type="integer">326247287</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
