@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_passion</RomName>
-  <VersionName>DOT-N-v1.2-20171230-passion-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171230</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/passion/DOT-N-v1.2-20171230-passion-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20171231-passion-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171231</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/passion/DOT-N-v1.2-20171231-passion-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/passion</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>e06df9e7f78c671dcfd113b36cc60042</CheckMD5>
-  <FileSize type="integer">458996131</FileSize>
+  <CheckMD5>a9d609850857bff0ad2828c7c5974bc9</CheckMD5>
+  <FileSize type="integer">459318345</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
