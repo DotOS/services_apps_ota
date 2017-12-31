@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_kuntao</RomName>
-  <VersionName>DOT-N-v1.2-20171229-kuntao-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171229</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/kuntao/DOT-N-v1.2-20171229-kuntao-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20171231-kuntao-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171231</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/kuntao/DOT-N-v1.2-20171231-kuntao-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/kuntao</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>d275b6322c6334617b09e1b30fa33d9c</CheckMD5>
-  <FileSize type="integer">515948351</FileSize>
+  <CheckMD5>7dee7276ec97c7a6c0dbcbea15c52299</CheckMD5>
+  <FileSize type="integer">515940074</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
