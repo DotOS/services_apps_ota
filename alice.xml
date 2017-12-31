@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_alice</RomName>
-  <VersionName>DOT-N-v1.2-20171229-alice-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171229</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/alice/DOT-N-v1.2-20171229-alice-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20171231-alice-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171231</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/alice/DOT-N-v1.2-20171231-alice-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/alice</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>58f219d0af30def5d92e8f31b2dc4a7b</CheckMD5>
-  <FileSize type="integer">486746557</FileSize>
+  <CheckMD5>fe04125fe8243bc26e1be260f00eb7c4</CheckMD5>
+  <FileSize type="integer">486711559</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
