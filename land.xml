@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_land</RomName>
-  <VersionName>DOT-N-v1.2-20171229-land-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171229</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/land/DOT-N-v1.2-20171229-land-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20171231-land-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171231</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/land/DOT-N-v1.2-20171231-land-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/land</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>ed4d2c079e2031d8f366a8be17c616c0</CheckMD5>
-  <FileSize type="integer">499980481</FileSize>
+  <CheckMD5>b08299e775bcdcd7d34ee9c95f44e454</CheckMD5>
+  <FileSize type="integer">499954143</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
