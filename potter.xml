@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_potter</RomName>
-  <VersionName>DOT-N-v1.2-20171230-potter-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171230</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/potter/DOT-N-v1.2-20171230-potter-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20171231-potter-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171231</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/potter/DOT-N-v1.2-20171231-potter-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/potter</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>97de9bfcf6d82044728ccb69e7e93d3a</CheckMD5>
-  <FileSize type="integer">395446021</FileSize>
+  <CheckMD5>5ba8211478b4048f874fc8169b3209f8</CheckMD5>
+  <FileSize type="integer">395744975</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
