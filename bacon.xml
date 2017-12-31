@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_bacon</RomName>
-  <VersionName>DOT-N-v1.2-20171229-bacon-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171229</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/bacon/DOT-N-v1.2-20171229-bacon-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20171231-bacon-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171231</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/bacon/DOT-N-v1.2-20171231-bacon-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/bacon</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>c5853b1ec5fdb1ae9c3bef3d5de2cfda</CheckMD5>
-  <FileSize type="integer">327695422</FileSize>
+  <CheckMD5>b71b50e6181d0f7618a96a1135871590</CheckMD5>
+  <FileSize type="integer">327659869</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
