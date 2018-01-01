@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_lux</RomName>
-  <VersionName>DOT-N-v1.2-20171231-lux-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171231</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/lux/DOT-N-v1.2-20171231-lux-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20180101-lux-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20180101</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/lux/DOT-N-v1.2-2017120101-lux-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/lux</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>7c73948b7555bb5459e76bb83e3cba11</CheckMD5>
-  <FileSize type="integer">339657436</FileSize>
+  <CheckMD5>3e19832be4ce5544c5d86d5c90752438</CheckMD5>
+  <FileSize type="integer">363436441</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
