@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_m2note</RomName>
+  <VersionName>building</VersionName>
+  <VersionNumber type="integer">building</VersionNumber>
+  <DirectUrl>building</DirectUrl>
+  <HttpUrl>building</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>building</CheckMD5>
+  <FileSize type="integer">building</FileSize>
+  <Changelog>
+    *Check dotOS telegram channel for weekly changelogs.
+  </Changelog>
+</ROM>
