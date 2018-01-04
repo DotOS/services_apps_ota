@@ -11,31 +11,28 @@
   <Developer>Mohan Cm</Developer>
   <Changelog>
 * **ROM Changes**  
-* Bump Dot version to v1.1
-* Fingerprint: Setting up Pattern/Pin Fc fixed
-* dotOTA added(OTA system adapted for official devices)
-* fix dot version unknown
-* speed up lockscreen anims
-* Improve overall System animmation lag
-* Added timber as default music app
-* Display :Qspanel theme engine
-* QS tile titles visibility
-* Memory leak Optimisation
-* Three Finger Swipe for Screenshot
-* Advanced Bluetooth, Data, Wifi Toggles
-* Screenshot crop and share
-* Fingerprint authentication vibration
-* dotpapers: New walls added
-* Pocket mode added
-* added camera sound toggle
-* Allow disabling of FC dialogs
-* QS Header Icon settings
+* Bump Dot version to v1.2
+* Merged December Security patch
+* More visual bug fixes
+* QS tiles track color accent.
+* Added Network Indicator (Settings->Data Usage).
+* Added Changelog section inside About.
+* New settings icons.
+* Re-work on overall app icons.
+* Some new dope walls.
+* And many more bug fixes and performace enhancements.
 * and few more bug fixes
-* Nov security patch
+* Added framework boost.
+* minor glitch fixes with qs panel.  (systemui FC on qs panel is still WIP)
+* fixed invisible gear icon in settings top bar.
+* Fix OTA App force close.
+* Replace CarrierText from Keyguard.
+* Add missing tiles icon
+* Track Navbar accent in white theme
+* Changes in Dailer theme overlay
 * **Device Specific Changes**
-* Kernel upstream to 3.18.83
-* New icon for Engineering Mode
-* Added Magisk as Inbuilt root
+* Kernel upstream to 3.18.90
+* Re-work on kernel for battery Optimisation
 * Permformance Optimisation!
   </Changelog>
 </ROM>
