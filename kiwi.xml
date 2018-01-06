@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_kiwi</RomName>
-  <VersionName>DOT-N-v1.2-20171231-kiwi-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171231</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/kiwi/DOT-N-v1.2-20171231-kiwi-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20180106-kiwi-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20180106</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/kiwi/DOT-N-v1.2-20180106-kiwi-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/kiwi</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>05ad436f2527bedf60a566b5bf87e12b</CheckMD5>
-  <FileSize type="integer">490078205</FileSize>
+  <CheckMD5>2436f3c0606adfffbd97e9b198ecce1a</CheckMD5>
+  <FileSize type="integer">490019194</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
