@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_athene</RomName>
-  <VersionName>DOT-N-v1.2-20171231-athene-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171231</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/athene/DOT-N-v1.2-20171231-athene-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20180106-athene-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20180106</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/athene/DOT-N-v1.2-20180106-athene-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/athene</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>88963e05933e0bf58a8d2a3b10041d8b</CheckMD5>
-  <FileSize type="integer">365781589</FileSize>
+  <CheckMD5>78c456e0b590fb1c384cfbd49ed938e0</CheckMD5>
+  <FileSize type="integer">365751608</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
