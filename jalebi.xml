@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_jalebi</RomName>
-  <VersionName>DOT-N-v1.2-20171231-jalebi-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171231</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/jalebi/DOT-N-v1.2-20171231-jalebi-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20180106-jalebi-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20180106</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/jalebi/DOT-N-v1.2-20180106-jalebi-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/jalebi</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>bad68641f8ace73cb65553cfb177084e</CheckMD5>
-  <FileSize type="integer">336628139</FileSize>
+  <CheckMD5>d9036c07a4230d9cfdbc71d81fa89e48</CheckMD5>
+  <FileSize type="integer">338987092</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
