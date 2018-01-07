@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_Z010D</RomName>
-  <VersionName>DOT-N-v1.2-20180101-Z010D-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20180101</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/Z010D/DOT-N-v1.2-20180101-Z010D-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20180107-Z010D-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20180107</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/Z010D/DOT-N-v1.2-20180107-Z010D-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/Z010D</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>84776f878c8e682fb5498c9ea5e3be10</CheckMD5>
-  <FileSize type="integer">501999121</FileSize>
+  <CheckMD5>fe5165556bdf07424abad82bc3a65137</CheckMD5>
+  <FileSize type="integer">501970309</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
