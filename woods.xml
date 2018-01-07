@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_woods</RomName>
-  <VersionName>DOT-N-v1.2-20171231-woods-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171231</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/woods/DOT-N-v1.2-20171231-woods-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20180107-woods-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20180107</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/woods/DOT-N-v1.2-20180107-woods-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/woods</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>f6db42f0df39f98e2e2a689717167ac8</CheckMD5>
-  <FileSize type="integer">361193762</FileSize>
+  <CheckMD5>8f72146e1d4ee50058f24b8e070e231a</CheckMD5>
+  <FileSize type="integer">361173875</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
