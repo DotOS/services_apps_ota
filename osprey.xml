@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_osprey</RomName>
-  <VersionName>DOT-N-v1.2-20171231-osprey-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171231</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/osprey/DOT-N-v1.2-20171231-osprey-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20180107-osprey-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20180107</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/osprey/DOT-N-v1.2-20180107-osprey-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/osprey</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>75538435e650cdc9cd67284330677c34</CheckMD5>
-  <FileSize type="integer">321944606</FileSize>
+  <CheckMD5>689bae1d9898cad044fc5c1f6ed29d4a</CheckMD5>
+  <FileSize type="integer">321901249</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
