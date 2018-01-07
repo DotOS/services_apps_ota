@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_z2_plus</RomName>
-  <VersionName>DOT-N-v1.2-20171231-z2_plus-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171231</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/z2_plus/DOT-N-v1.2-20171231-z2_plus-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20180107-z2_plus-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20180107</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/z2_plus/DOT-N-v1.2-20180107-z2_plus-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/z2_plus</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>0b7c9b4dc6adc57e1910a83870e1750a</CheckMD5>
-  <FileSize type="integer">489034964</FileSize>
+  <CheckMD5>c2851cc1dd5b98c166c1e62e8b26e7f0</CheckMD5>
+  <FileSize type="integer">488977589</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
