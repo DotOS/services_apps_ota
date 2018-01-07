@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_mido</RomName>
-  <VersionName>DOT-N-v1.2-20171231-mido-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171231</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/mido/DOT-N-v1.2-20171231-mido-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20180107-mido-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20180107</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/mido/DOT-N-v1.2-20180107-mido-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/mido</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>41f0643c5c4bc63d9bfac26fcbf6f889</CheckMD5>
-  <FileSize type="integer">478133427</FileSize>
+  <CheckMD5>c00696a3cce22653db747cd8079aadb7</CheckMD5>
+  <FileSize type="integer">478084953</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
