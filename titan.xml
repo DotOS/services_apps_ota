@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_titan</RomName>
-  <VersionName>DOT-N-v1.2-20171231-titan-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171231</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/titan/DOT-N-v1.2-20171231-titan-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20180107-titan-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20180107</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/titan/DOT-N-v1.2-20180107-titan-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/titan</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>2327722dd61cbf54d91be524b14f1dd4</CheckMD5>
-  <FileSize type="integer">317219655</FileSize>
+  <CheckMD5>211a27dcab46dd12c973252011cb5dca</CheckMD5>
+  <FileSize type="integer">317165164</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
