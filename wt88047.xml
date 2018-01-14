@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_wt88047</RomName>
-  <VersionName>DOT-N-v1.2-20180107-wt88047-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20180107</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/wt88047/DOT-N-v1.2-20180107-wt88047-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20180114-wt88047-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20180114</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/wt88047/DOT-N-v1.2-20180114-wt88047-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/wt88047</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>84baa7437fea4f2478264eaaf19adb17</CheckMD5>
-  <FileSize type="integer">333264193</FileSize>
+  <CheckMD5>feb223b5318ab39c7655f82b10c82130</CheckMD5>
+  <FileSize type="integer">333266308</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
