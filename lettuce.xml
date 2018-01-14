@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_lettuce</RomName>
-  <VersionName>DOT-N-v1.2-20171230-lettuce-OFFICIAL.zip</VersionName>
-  <VersionNumber type="integer">20171230</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/lettuce/DOT-N-v1.2-20171230-lettuce-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20180114-lettuce-OFFICIAL.zip</VersionName>
+  <VersionNumber type="integer">20180114</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/lettuce/DOT-N-v1.2-20180114-lettuce-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/lettuce</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>897cfcfcc6001a0ff59e38722ab23dd6</CheckMD5>
-  <FileSize type="integer">451258518</FileSize>
+  <CheckMD5>e1ea81bb97cc4416b6e11b90df506143</CheckMD5>
+  <FileSize type="integer">450766643</FileSize>
   <Developer>Abhinav Gupta(agrd1129)</Developer>
   <Changelog>
   ** dotOS Changelog**
   -------------------
     Droid On Time!
 
-    *HAPPY NEW YEAR* 
-    
-    *OTA app fixed!
+    Changelogs ~ 
+    * Ui Improvements of dialer app
+    * Smooth animation QS Panel Date, Time etc
+    * DotExtras small improvements
+    * Some other improvements!
   
     device specific
     * add pa camera
     * used clang TC
-    * bcleaned and reset all repos for more efficiency
     * more supportive audio
     * tweaks for latest security patch
   </Changelog>
