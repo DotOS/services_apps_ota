@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_m2note</RomName>
+  <VersionName>DOT-N-v1.2-20180120-m2note-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20180120</VersionNumber>
+  <DirectUrl></DirectUrl>
+  <HttpUrl></HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>d751d7885048c7e5014ed59b07e9ea74</CheckMD5>
+  <FileSize type="integer">451422802</FileSize>
+  <Changelog>
+    *Check dotOS telegram channel for weekly changelogs.
+  </Changelog>
+</ROM>
