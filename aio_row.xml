@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_aio_row</RomName>
-  <VersionName>DOT-N-v1.2-20180113-aio_row-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20180113</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/aio_row/DOT-N-v1.2-20180113-aio_row-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20180129-aio_row-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20180129</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/aio_row/DOT-N-v1.2-20180129-aio_row-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/aio_row</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>55bb63edf438def4608d5a81f8fe4a49</CheckMD5>
-  <FileSize type="integer">440223523</FileSize>
+  <CheckMD5>3547eddc46eed2bfcaf1abf8eeeff784</CheckMD5>
+  <FileSize type="integer">440265550</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
