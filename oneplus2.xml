@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_oneplus2</RomName>
-  <VersionName>DOT-N-v1.2-20180113-oneplus2-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20180114</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/oneplus2/DOT-N-v1.2-20180113-oneplus2-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20180130-oneplus2-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20180130</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/oneplus2/DOT-N-v1.2-20180130-oneplus2-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/oneplus2</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>1e1e4b7ee96f28ddb8d49415e65ad6b5</CheckMD5>
-  <FileSize type="integer">458436301</FileSize>
+  <CheckMD5>cc6e2684ee264d9a19b36d3010d83f52</CheckMD5>
+  <FileSize type="integer">458510599</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
