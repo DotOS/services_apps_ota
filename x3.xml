@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_x3</RomName>
-  <VersionName>DOT-N-v1.2-20180114-x3-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20180114</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/x3/DOT-N-v1.2-20180114-x3-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20180130-x3-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20180130</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/x3/DOT-N-v1.2-20180130-x3-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/x3</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>f98d3d3b6fd8b1a325f18091fa98a8c4</CheckMD5>
-  <FileSize type="integer">506433421</FileSize>
+  <CheckMD5>9b3c0e916d4d10ebcd262601475244e6</CheckMD5>
+  <FileSize type="integer">507442837</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
