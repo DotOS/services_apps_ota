@@ -9,6 +9,14 @@
   <CheckMD5>653e8e15b1382437ee88b272d6e7d19e</CheckMD5>
   <FileSize type="integer">490720794</FileSize>
   <Changelog>
-    *Check dotOS telegram channel for weekly changelogs.
+* Fixed sim enable/disabled bug.
+* Fixed calls not working after disabling airplane mode
+* Added haptic feedback to fp gestures ( just enable and then disable navbar once after first boot)
+* Improved battery backup.
+* Camera improvement.
+* Miscellaneous stuff.
+* January security patch.
+* Much more goodies packed explore it on your own.
+    ***** Clean flash *****
   </Changelog>
 </ROM>
