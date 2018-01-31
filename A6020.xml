@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_A6020</RomName>
-  <VersionName>DOT-N-v1.2-20171217-A6020-OFFICIAL</VersionName>
-  <VersionNumber type="integer">20171217</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/A6020/DOT-N-v1.2-20171217-A6020-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20180129-A6020-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20180129</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/A6020/DOT-N-v1.2-20180129-A6020-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/A6020</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>28adfc7b28a697e581657a5720928760</CheckMD5>
-  <FileSize type="integer">481506099</FileSize>
+  <CheckMD5>1d4add9da49c70eb5efc5353830ade3b</CheckMD5>
+  <FileSize type="integer">454886739</FileSize>
   <Developer>Yash Garg</Developer>
   <Changelog>
-    *Version Bump To v1.2
-    *Added Traffic Indicators In Setting > Data Usage
-    *Merged December Security Patch
-    *Some Visual Bug Fixes
-    *New Settings Icon
-    *Added Changelog Section In About
-    *Some New Dope Walls
-    *Re-Work On Overall App Icons
-    *And Many More Bug Fixes And Performance Enhancements
+    * Fix OTA App force close.
+    * Add Custom CarrierText on lockscreen , track also on QS Panel.
+    * Add missing tiles icon
+    * Track Navbar accent in white theme
+    * Changes in Dialer theme overlay
+    * New Wallpapers added
   </Changelog>
 </ROM>
