@@ -9,6 +9,11 @@
   <CheckMD5>1d4add9da49c70eb5efc5353830ade3b</CheckMD5>
   <FileSize type="integer">454886739</FileSize>
   <Changelog>
-    *Check dotOS telegram channel for weekly changelogs.
+    *Fix OTA App Force Close
+    *Added Custom Carrier Text On Lockscreen,track also on QS Panel
+    *Added missing tiles icon
+    *Track navbar accent in white theme 
+    *Changes in dialer theme overlay
+    *New wallpapers added
   </Changelog>
 </ROM>
