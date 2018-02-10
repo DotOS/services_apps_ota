@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_lettuce</RomName>
-  <VersionName>DOT-N-v1.2-20180114-lettuce-OFFICIAL.zip</VersionName>
-  <VersionNumber type="integer">20180114</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/lettuce/DOT-N-v1.2-20180114-lettuce-OFFICIAL.zip</DirectUrl>
+  <VersionName>DOT-N-v1.2-20180210-lettuce-OFFICIAL.zip</VersionName>
+  <VersionNumber type="integer">20180210</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-ota/files/lettuce/DOT-N-v1.2-20180210-lettuce-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/dotos-ota/files/lettuce</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>e1ea81bb97cc4416b6e11b90df506143</CheckMD5>
-  <FileSize type="integer">450766643</FileSize>
+  <CheckMD5>5ffb6a82d4ffb676321bc999d19a2552</CheckMD5>
+  <FileSize type="integer">451209780</FileSize>
   <Developer>Abhinav Gupta(agrd1129)</Developer>
   <Changelog>
   ** dotOS Changelog**
@@ -15,9 +15,8 @@
     Droid On Time!
 
     Changelogs ~ 
-    * Ui Improvements of dialer app
-    * Smooth animation QS Panel Date, Time etc
-    * DotExtras small improvements
+    * Final Build
+    * Ui Improvements 
     * Some other improvements!
   
     device specific
