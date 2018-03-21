@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_cedric</RomName>
-  <VersionName></VersionName>
+  <VersionName>dotOS-O-v2.1-cedric-UNOFFICIAL-20180321</VersionName>
   <VersionNumber type="integer">20180321</VersionNumber>
-  <DirectUrl>https://downloads.droidontime.com/cedric/.zip</DirectUrl>
+  <DirectUrl>https://downloads.droidontime.com/cedric/dotOS-O-v2.1-cedric-UNOFFICIAL-20180321.zip</DirectUrl>
   <HttpUrl>https://downloads.droidontime.com/cedric</HttpUrl>
   <Android>8.1.0</Android>
   <CheckMD5></CheckMD5>
