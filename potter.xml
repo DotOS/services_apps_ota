@@ -2,7 +2,7 @@
 <ROM>
   <RomName>dot_potter</RomName>
   <VersionName></VersionName>
-  <VersionNumber type="integer">20180320</VersionNumber>
+  <VersionNumber type="integer">20180321</VersionNumber>
   <DirectUrl>https://downloads.droidontime.com/potter/.zip</DirectUrl>
   <HttpUrl>https://downloads.droidontime.com/potter</HttpUrl>
   <Android>8.1.0</Android>
