@@ -6,7 +6,7 @@
   <DirectUrl>https://downloads.droidontime.com/cedric/.zip</DirectUrl>
   <HttpUrl>https://downloads.droidontime.com/cedric</HttpUrl>
   <Android>8.1.0</Android>
-  <CheckMD5></CheckMD5>
+  <CheckMD5>56c50556c8db05211e749a8fc54445dc</CheckMD5>
   <FileSize type="integer"></FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
