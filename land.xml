@@ -2,7 +2,7 @@
 <ROM>
   <RomName>dot_land</RomName>
   <VersionName></VersionName>
-  <VersionNumber type="integer">20180321</VersionNumber>
+  <VersionNumber type="integer">20180322</VersionNumber>
   <DirectUrl>https://downloads.droidontime.com/land/.zip</DirectUrl>
   <HttpUrl>https://downloads.droidontime.com/land</HttpUrl>
   <Android>8.1.0</Android>
