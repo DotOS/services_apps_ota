@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_tissot</RomName>
+  <VersionName>dotOS-O-v2.2-tissot-OFFICIAL-20180421</VersionName>
+  <VersionNumber type="integer">20180421</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/tissot/dotOS-O-v2.2-tissot-OFFICIAL-20180421.zip</DirectUrl>
+  <HttpUrl>https://downloads.droidontime.com/tissot</HttpUrl>
+  <Android>8.1.0</Android>
+  <CheckMD5></CheckMD5>
+  <FileSize type="integer"></FileSize>
+  <Changelog>
+    * Device Specific Changelog:
+    * Fixed Native Double tap to wake
+    * added Hw keys customisation
+    * Fixed portrait mode
+    * Added Xiaomi doze
+    * Enabled hal3 on camera
+    * kernel upstream to 3.18.105
+    * based on Void kernel by @flex1911
+  </Changelog>
+</ROM>
