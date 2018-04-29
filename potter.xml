@@ -2,12 +2,12 @@
 <ROM>
   <RomName>dot_potter</RomName>
   <VersionName>dotOS-O-v2.2-potter-OFFICIAL-20180429</VersionName>
-  <VersionNumber type="integer">20180429</VersionNumber>
+  <VersionNumber type="integer">20180430</VersionNumber>
   <DirectUrl>https://downloads.droidontime.com/potter/dotOS-O-v2.2-potter-OFFICIAL-20180429.zip</DirectUrl>
   <HttpUrl>https://downloads.droidontime.com/potter</HttpUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>b3cd5fb52f2f6dec038f807cac8b0985</CheckMD5>
-  <FileSize type="integer">547053198</FileSize>
+  <CheckMD5>b9432f26e445bbefeeeae663d9336c4f</CheckMD5>
+  <FileSize type="integer">546874394</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
