@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_cedric</RomName>
-  <VersionName></VersionName>
-  <VersionNumber type="integer">20180321</VersionNumber>
-  <DirectUrl>https://downloads.droidontime.com/cedric/.zip</DirectUrl>
+  <VersionName>dotOS-O-v2.2-cedric-OFFICIAL-20180429</VersionName>
+  <VersionNumber type="integer">20180429</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/cedric/dotOS-O-v2.2-cedric-OFFICIAL-20180429.zip</DirectUrl>
   <HttpUrl>https://downloads.droidontime.com/cedric</HttpUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>56c50556c8db05211e749a8fc54445dc</CheckMD5>
-  <FileSize type="integer"></FileSize>
+  <CheckMD5>629f2d2c02bec7575658c7372a1bc3e7</CheckMD5>
+  <FileSize type="integer">544884534</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
