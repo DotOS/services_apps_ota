@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_z2_plus</RomName>
+  <VersionName>dotOS-O-v2.2-z2_plus-OFFICIAL-20180505</VersionName>
+  <VersionNumber type="integer">20180505</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/z2_plus/dotOS-O-v2.2-z2_plus-OFFICIAL-20180505.zip</DirectUrl>
+  <HttpUrl>https://downloads.droidontime.com/z2_plus</HttpUrl>
+  <Android>8.1.0</Android>
+  <CheckMD5>03c37b90ed0f668cfcd4ff381e5dd699</CheckMD5>
+  <FileSize type="integer">523980294</FileSize>
+  <Changelog>
+    *Check dotOS telegram channel for weekly changelogs.
+  </Changelog>
+</ROM>
