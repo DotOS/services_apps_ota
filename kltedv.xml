@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_kltedv</RomName>
+  <VersionName>dotOS-O-v2.2-kltedv-OFFICIAL-20180505</VersionName>
+  <VersionNumber type="integer">20180506</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/kltedv/dotOS-O-v2.2-kltedv-OFFICIAL-20180505.zip</DirectUrl>
+  <HttpUrl>https://downloads.droidontime.com/kltedv</HttpUrl>
+  <Android>8.1.0</Android>
+  <CheckMD5>f3c2e338c252b61724c5437a4a1e3feb</CheckMD5>
+  <FileSize type="integer">337466965</FileSize>
+  <Changelog>
+    *Check dotOS telegram channel for weekly changelogs.
+  </Changelog>
+</ROM>
