@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_j7xelte</RomName>
+  <VersionName>dotOS-O-v2.2-j7xelte-OFFICIAL-20180505</VersionName>
+  <VersionNumber type="integer">20180505</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/j7xelte/dotOS-O-v2.2-j7xelte-OFFICIAL-20180505.zip</DirectUrl>
+  <HttpUrl>https://downloads.droidontime.com/j7xelte</HttpUrl>
+  <Android>8.1.0</Android>
+  <CheckMD5>89049117aeb752fdd18bc252a20537f3</CheckMD5>
+  <FileSize type="integer">305481587</FileSize>
+  <Changelog>
+    *Check dotOS telegram channel for weekly changelogs.
+  </Changelog>
+</ROM>
