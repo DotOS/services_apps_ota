@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_santoni</RomName>
-  <VersionName>dotOS-O-v2.2-santoni-OFFICIAL-20180429</VersionName>
-  <VersionNumber type="integer">20180429</VersionNumber>
-  <DirectUrl>https://downloads.droidontime.com/santoni/dotOS-O-v2.2-santoni-OFFICIAL-20180429.zip</DirectUrl>
+  <VersionName>dotOS-O-v2.2-santoni-OFFICIAL-20180506</VersionName>
+  <VersionNumber type="integer">20180506</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/santoni/dotOS-O-v2.2-santoni-OFFICIAL-20180506.zip</DirectUrl>
   <HttpUrl>https://downloads.droidontime.com/santoni</HttpUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>40ab5ed2dae12858f3262bbcd87e148a</CheckMD5>
-  <FileSize type="integer">523174161</FileSize>
+  <CheckMD5>1e81d8fe6bd5ed12eaf028bf5b136ae1</CheckMD5>
+  <FileSize type="integer">519990481</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
