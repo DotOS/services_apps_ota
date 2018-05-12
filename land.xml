@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_land</RomName>
-  <VersionName>dotOS-O-v2.2-land-OFFICIAL-20180505</VersionName>
-  <VersionNumber type="integer">20180505</VersionNumber>
-  <DirectUrl>https://downloads.droidontime.com/land/dotOS-O-v2.2-land-OFFICIAL-20180505.zip</DirectUrl>
+  <VersionName>dotOS-O-v2.2-land-OFFICIAL-20180512</VersionName>
+  <VersionNumber type="integer">20180512</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/land/dotOS-O-v2.2-land-OFFICIAL-20180512.zip</DirectUrl>
   <HttpUrl>https://downloads.droidontime.com/land</HttpUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>c3de14ce3f02644d96f8fc903ef51dee</CheckMD5>
-  <FileSize type="integer">529677211</FileSize>
+  <CheckMD5>1ca4de20b292cf6b07dc3cbc95a03591</CheckMD5>
+  <FileSize type="integer">529649976</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
