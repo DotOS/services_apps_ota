@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_oneplus3</RomName>
+  <VersionName>dotOS-O-v2.2-oneplus3-OFFICIAL-20180512</VersionName>
+  <VersionNumber type="integer">20180512</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/oneplus3/dotOS-O-v2.2-oneplus3-OFFICIAL-20180512.zip</DirectUrl>
+  <HttpUrl>https://downloads.droidontime.com/oneplus3</HttpUrl>
+  <Android>8.1.0</Android>
+  <CheckMD5>42669b41cc70007c4df2ca213449523e</CheckMD5>
+  <FileSize type="integer">528375809</FileSize>
+  <Changelog>
+    *Check dotOS telegram channel for weekly changelogs.
+  </Changelog>
+</ROM>
