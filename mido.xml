@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_mido</RomName>
-  <VersionName>dotOS-O-v2.2-mido-OFFICIAL-20180512</VersionName>
-  <VersionNumber type="integer">20180512</VersionNumber>
-  <DirectUrl>https://downloads.droidontime.com/mido/dotOS-O-v2.2-mido-OFFICIAL-20180512.zip</DirectUrl>
+  <VersionName>dotOS-O-v2.2-mido-OFFICIAL-20180519</VersionName>
+  <VersionNumber type="integer">20180519</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/mido/dotOS-O-v2.2-mido-OFFICIAL-20180519.zip</DirectUrl>
   <HttpUrl>https://downloads.droidontime.com/mido</HttpUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>15a78e789cfa10cea855f5bbd3c50011</CheckMD5>
-  <FileSize type="integer">512204643</FileSize>
+  <CheckMD5>bf64ea159de535d48822c98dd2a1bc3e</CheckMD5>
+  <FileSize type="integer">512033703</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
