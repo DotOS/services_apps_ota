@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_vince</RomName>
-  <VersionName>dotOS-O-v2.2-vince-OFFICIAL-20180512</VersionName>
-  <VersionNumber type="integer">20180513</VersionNumber>
-  <DirectUrl>https://downloads.droidontime.com/vince/dotOS-O-v2.2-vince-OFFICIAL-20180512.zip</DirectUrl>
+  <VersionName>dotOS-O-v2.2-vince-OFFICIAL-20180520</VersionName>
+  <VersionNumber type="integer">20180520</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/vince/dotOS-O-v2.2-vince-OFFICIAL-20180520.zip</DirectUrl>
   <HttpUrl>https://downloads.droidontime.com/vince</HttpUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>788c14c7f9a5f9ef400359c9852f34f3</CheckMD5>
-  <FileSize type="integer">459432531</FileSize>
+  <CheckMD5>81d7fd8b01ecc54d245dd4ebb8689cef</CheckMD5>
+  <FileSize type="integer">529741768</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
