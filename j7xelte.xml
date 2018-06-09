@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_j7xelte</RomName>
-  <VersionName>dotOS-O-v2.2-j7xelte-OFFICIAL-20180519</VersionName>
-  <VersionNumber type="integer">20180519</VersionNumber>
-  <DirectUrl>https://downloads.droidontime.com/j7xelte/dotOS-O-v2.2-j7xelte-OFFICIAL-20180519.zip</DirectUrl>
+  <VersionName>dotOS-O-v2.3-j7xelte-OFFICIAL-20180609</VersionName>
+  <VersionNumber type="integer">20180609</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/j7xelte/dotOS-O-v2.3-j7xelte-OFFICIAL-20180609.zip</DirectUrl>
   <HttpUrl>https://downloads.droidontime.com/j7xelte</HttpUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>9a4e716cadffbe6746e85e91b0179ee7</CheckMD5>
-  <FileSize type="integer">305556059</FileSize>
+  <CheckMD5>4cb8f5041567a9af57f53c3353a37102</CheckMD5>
+  <FileSize type="integer">299736871</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
