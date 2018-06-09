@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_jalebi</RomName>
-  <VersionName>dotOS-O-v2.2-jalebi-OFFICIAL-20180519</VersionName>
-  <VersionNumber type="integer">20180519</VersionNumber>
-  <DirectUrl>https://downloads.droidontime.com/jalebi/dotOS-O-v2.2-jalebi-OFFICIAL-20180519.zip</DirectUrl>
+  <VersionName>dotOS-O-v2.3-jalebi-OFFICIAL-20180609</VersionName>
+  <VersionNumber type="integer">20180609</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/jalebi/dotOS-O-v2.3-jalebi-OFFICIAL-20180609.zip</DirectUrl>
   <HttpUrl>https://downloads.droidontime.com/jalebi</HttpUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>23db1d03cb89e1c9ab50f1d50c1c950d</CheckMD5>
-  <FileSize type="integer">309524927</FileSize>
+  <CheckMD5>3a9e7cafe39fcd9902ad0d9d349bb310</CheckMD5>
+  <FileSize type="integer">315653898</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
