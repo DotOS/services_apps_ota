@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_kuntao</RomName>
+  <VersionName>dotOS-O-v2.3-kuntao-OFFICIAL-20180610</VersionName>
+  <VersionNumber type="integer">20180611</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/kuntao/dotOS-O-v2.3-kuntao-OFFICIAL-20180610.zip</DirectUrl>
+  <HttpUrl>https://downloads.droidontime.com/kuntao</HttpUrl>
+  <Android>8.1.0</Android>
+  <CheckMD5>87860602879bda92aa982cbb7d96e025</CheckMD5>
+  <FileSize type="integer">512508411</FileSize>
+  <Changelog>
+    *Check dotOS telegram channel for weekly changelogs.
+  </Changelog>
+</ROM>
