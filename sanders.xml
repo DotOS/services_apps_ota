@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_sanders</RomName>
-  <VersionName>dotOS-O-v2.2-sanders-OFFICIAL-20180519</VersionName>
-  <VersionNumber type="integer">20180519</VersionNumber>
-  <DirectUrl>https://downloads.droidontime.com/sanders/dotOS-O-v2.2-sanders-OFFICIAL-20180519.zip</DirectUrl>
+  <VersionName>dotOS-O-v2.3-sanders-OFFICIAL-20180610</VersionName>
+  <VersionNumber type="integer">20180610</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/sanders/dotOS-O-v2.3-sanders-OFFICIAL-20180610.zip</DirectUrl>
   <HttpUrl>https://downloads.droidontime.com/sanders</HttpUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>6ba0832d6ea77662cf8a508fb08ec856</CheckMD5>
-  <FileSize type="integer">537188675</FileSize>
+  <CheckMD5>5424eefc6474783c6ed44ada00f17a6b</CheckMD5>
+  <FileSize type="integer">530441319</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
