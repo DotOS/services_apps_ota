@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_oneplus2</RomName>
+  <VersionName>dotOS-O-v2.3-oneplus2-OFFICIAL-20180610</VersionName>
+  <VersionNumber type="integer">20180610</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/oneplus2/dotOS-O-v2.3-oneplus2-OFFICIAL-20180610.zip</DirectUrl>
+  <HttpUrl>https://downloads.droidontime.com/oneplus2</HttpUrl>
+  <Android>8.1.0</Android>
+  <CheckMD5>428ec127543e2d28b37ba9bf68470b44</CheckMD5>
+  <FileSize type="integer">475858232</FileSize>
+  <Changelog>
+    *Check dotOS telegram channel for weekly changelogs.
+  </Changelog>
+</ROM>
