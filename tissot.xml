@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_tissot</RomName>
-  <VersionName>dotOS-O-v2.2-tissot-OFFICIAL-20180519</VersionName>
-  <VersionNumber type="integer">20180520</VersionNumber>
-  <DirectUrl>https://downloads.droidontime.com/tissot/dotOS-O-v2.2-tissot-OFFICIAL-20180519.zip</DirectUrl>
+  <VersionName>dotOS-O-v2.3-tissot-OFFICIAL-20180610</VersionName>
+  <VersionNumber type="integer">20180610</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/tissot/dotOS-O-v2.3-tissot-OFFICIAL-20180610.zip</DirectUrl>
   <HttpUrl>https://downloads.droidontime.com/tissot</HttpUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>52bbc27338d04143a4df0c092b22cf45</CheckMD5>
-  <FileSize type="integer">517332842</FileSize>
+  <CheckMD5>7a4bc81328f7b474807f7435b2353130</CheckMD5>
+  <FileSize type="integer">511494086</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
