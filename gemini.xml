@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_gemini</RomName>
+  <VersionName>dotOS-O-v2.3.1-gemini-OFFICIAL-20180616</VersionName>
+  <VersionNumber type="integer">20180616</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/gemini/dotOS-O-v2.3.1-gemini-OFFICIAL-20180616.zip</DirectUrl>
+  <HttpUrl>https://downloads.droidontime.com/gemini</HttpUrl>
+  <Android>8.1.0</Android>
+  <CheckMD5>7034fdf2450f918a0ae82c1557d64a98</CheckMD5>
+  <FileSize type="integer">512355849</FileSize>
+  <Changelog>
+    *Check dotOS telegram channel for weekly changelogs.
+  </Changelog>
+</ROM>
