@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_potter</RomName>
-  <VersionName>dotOS-O-v2.3-potter-OFFICIAL-20180610</VersionName>
-  <VersionNumber type="integer">20180610</VersionNumber>
-  <DirectUrl>https://downloads.droidontime.com/potter/dotOS-O-v2.3-potter-OFFICIAL-20180610.zip</DirectUrl>
+  <VersionName>dotOS-O-v2.3.1-potter-OFFICIAL-20180616</VersionName>
+  <VersionNumber type="integer">20180616</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/potter/dotOS-O-v2.3.1-potter-OFFICIAL-20180616.zip</DirectUrl>
   <HttpUrl>https://downloads.droidontime.com/potter</HttpUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>1d0bb569d6a2b4b883deea87740e41d3</CheckMD5>
-  <FileSize type="integer">538251713</FileSize>
+  <CheckMD5>ab2ccb463ffce3efb378ac86e65ea4a4</CheckMD5>
+  <FileSize type="integer">544876500</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
