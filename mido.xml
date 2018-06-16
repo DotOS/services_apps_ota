@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_mido</RomName>
-  <VersionName>dotOS-O-v2.3-mido-OFFICIAL-20180610</VersionName>
+  <VersionName>dotOS-O-v2.3.1-mido-OFFICIAL-20180616</VersionName>
   <VersionNumber type="integer">20180616</VersionNumber>
   <DirectUrl>https://downloads.droidontime.com/mido/dotOS-O-v2.3.1-mido-OFFICIAL-20180616.zip</DirectUrl>
   <HttpUrl>https://downloads.droidontime.com/mido</HttpUrl>
