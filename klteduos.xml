@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_klteduos</RomName>
-  <VersionName>dotOS-O-v2.3-klteduos-OFFICIAL-20180610</VersionName>
-  <VersionNumber type="integer">20180611</VersionNumber>
-  <DirectUrl>https://downloads.droidontime.com/klteduos/dotOS-O-v2.3-klteduos-OFFICIAL-20180610.zip</DirectUrl>
+  <VersionName>dotOS-O-v2.3.1-klteduos-OFFICIAL-20180616</VersionName>
+  <VersionNumber type="integer">20180616</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/klteduos/dotOS-O-v2.3.1-klteduos-OFFICIAL-20180616.zip</DirectUrl>
   <HttpUrl>https://downloads.droidontime.com/klteduos</HttpUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>2cb9a8ad79f9dc52a21ce975de891244</CheckMD5>
-  <FileSize type="integer">331297360</FileSize>
+  <CheckMD5>6eaea3eddf9f0a84365ee8c6eb6b2b03</CheckMD5>
+  <FileSize type="integer">332787538</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
