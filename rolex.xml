@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_rolex</RomName>
+  <VersionName>dotOS-O-v2.3.1-rolex-OFFICIAL-20180617</VersionName>
+  <VersionNumber type="integer">20180617</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/rolex/dotOS-O-v2.3.1-rolex-OFFICIAL-20180617.zip</DirectUrl>
+  <HttpUrl>https://downloads.droidontime.com/rolex</HttpUrl>
+  <Android>8.1.0</Android>
+  <CheckMD5>ce90b024e891565bbb40c31d712565f8</CheckMD5>
+  <FileSize type="integer">459069660</FileSize>
+  <Changelog>
+    *Check dotOS telegram channel for weekly changelogs.
+  </Changelog>
+</ROM>
