@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_osprey</RomName>
-  <VersionName>dotOS-O-v2.3-osprey-OFFICIAL-20180610</VersionName>
-  <VersionNumber type="integer">20180610</VersionNumber>
-  <DirectUrl>https://downloads.droidontime.com/osprey/dotOS-O-v2.3-osprey-OFFICIAL-20180610.zip</DirectUrl>
+  <VersionName>dotOS-O-v2.3.1-osprey-OFFICIAL-20180617</VersionName>
+  <VersionNumber type="integer">20180617</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/osprey/dotOS-O-v2.3.1-osprey-OFFICIAL-20180617.zip</DirectUrl>
   <HttpUrl>https://downloads.droidontime.com/osprey</HttpUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>b8d71ee4f495b0f67068a2a57436f232</CheckMD5>
-  <FileSize type="integer">324229459</FileSize>
+  <CheckMD5>63173376751ba8051387de2bb31da69c</CheckMD5>
+  <FileSize type="integer">328053330</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
