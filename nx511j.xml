@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_nx511j</RomName>
-  <VersionName>dotOS-O-v2.3-nx511j-OFFICIAL-20180610</VersionName>
-  <VersionNumber type="integer">20180610</VersionNumber>
-  <DirectUrl>https://downloads.droidontime.com/nx511j/dotOS-O-v2.3-nx511j-OFFICIAL-20180610.zip</DirectUrl>
+  <VersionName>dotOS-O-v2.3.1-nx511j-OFFICIAL-20180617</VersionName>
+  <VersionNumber type="integer">20180617</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/nx511j/dotOS-O-v2.3.1-nx511j-OFFICIAL-20180617.zip</DirectUrl>
   <HttpUrl>https://downloads.droidontime.com/nx511j</HttpUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>579062b69a858bf535867f917c13e4dc</CheckMD5>
-  <FileSize type="integer">486160385</FileSize>
+  <CheckMD5>1cbf32584ae984141e158f5f823899b7</CheckMD5>
+  <FileSize type="integer">488567801</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
