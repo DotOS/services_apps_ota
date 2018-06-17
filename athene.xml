@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>dot_athene</RomName>
-  <VersionName>dotOS-O-v2.3-athene-OFFICIAL-20180609</VersionName>
-  <VersionNumber type="integer">20180609</VersionNumber>
-  <DirectUrl>https://downloads.droidontime.com/athene/dotOS-O-v2.3-athene-OFFICIAL-20180609.zip</DirectUrl>
+  <VersionName>dotOS-O-v2.3.1-athene-OFFICIAL-20180617</VersionName>
+  <VersionNumber type="integer">20180617</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/athene/dotOS-O-v2.3.1-athene-OFFICIAL-20180617.zip</DirectUrl>
   <HttpUrl>https://downloads.droidontime.com/athene</HttpUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>41e0153fffa3919072f242beb6acc663</CheckMD5>
-  <FileSize type="integer">329559058</FileSize>
+  <CheckMD5>74668fa9a282f37e74ee4b78a5129597</CheckMD5>
+  <FileSize type="integer">331705439</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
