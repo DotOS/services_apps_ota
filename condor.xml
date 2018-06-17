@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>dot_condor</RomName>
+  <VersionName>dotOS-O-v2.3.1-condor-OFFICIAL-20180617</VersionName>
+  <VersionNumber type="integer">20180617</VersionNumber>
+  <DirectUrl>https://downloads.droidontime.com/condor/dotOS-O-v2.3.1-condor-OFFICIAL-20180617.zip</DirectUrl>
+  <HttpUrl>https://downloads.droidontime.com/condor</HttpUrl>
+  <Android>8.1.0</Android>
+  <CheckMD5>370b62ce93a5a5298c48c6d6a57a7e72</CheckMD5>
+  <FileSize type="integer">324108968</FileSize>
+  <Changelog>
+    *Check dotOS telegram channel for weekly changelogs.
+  </Changelog>
+</ROM>
