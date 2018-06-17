@@ -6,8 +6,8 @@
   <DirectUrl>https://downloads.droidontime.com/oneplus3/dotOS-O-v2.3.1-oneplus3-OFFICIAL-20180617.zip</DirectUrl>
   <HttpUrl>https://downloads.droidontime.com/oneplus3</HttpUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>96ce0cf774e77bd175bedac03cd020aa</CheckMD5>
-  <FileSize type="integer">528466170</FileSize>
+  <CheckMD5>8d2cc4ba7f47c28ea1988e5ab374d63c</CheckMD5>
+  <FileSize type="integer">525327304</FileSize>
   <Changelog>
     *Check dotOS telegram channel for weekly changelogs.
   </Changelog>
