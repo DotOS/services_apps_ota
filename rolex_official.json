@@ -1,0 +1,25 @@
+{
+  "response":[
+    {
+      "datetime":1612831188,
+      "filename":"dotOS-R-v5.0.0-rolex-OFFICIAL-20210209-0039.zip",
+      "id":"602545d1b7d17b7b0fdac7ea84c62f66",
+      "romtype":"OFFICIAL",
+      "size":640798629,
+      "url":"https://sourceforge.net/projects/dotos-downloads/files/dot11/rolex/vanilla/dotOS-R-v5.0.0-rolex-OFFICIAL-20210209-0039.zip/download",
+      "version":"v5.0.0",
+      "changelog":[
+        {
+          "miscTitle":"Information",
+          "miscSummary":"This is unified build of dotOS based on android 11 for Redmi4a/5a and name rova is now dropped because no any device exist with name rova",
+          "settingsTitle":"",
+          "settingsSummary":"",
+          "securityTitle":"",
+          "securitySummary":"",
+          "systemTitle":"",
+          "systemSummary":""
+        }
+      ]
+    }
+  ]
+}
