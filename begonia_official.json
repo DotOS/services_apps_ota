@@ -1,0 +1,25 @@
+{
+  "response":[
+    {
+      "datetime":1613104117,
+      "filename":"dotOS-R-v5.0.0-begonia-OFFICIAL-20210212-0431.zip",
+      "id":"817af9b5b8eab6151c22456634c24dfe",
+      "romtype":"OFFICIAL",
+      "size":820830890,
+      "url":"https://sourceforge.net/projects/dotos-downloads/files/dot11/begonia/vanilla/dotOS-R-v5.0.0-begonia-OFFICIAL-20210212-0431.zip/download",
+      "version":"v5.0.0",
+      "changelog":[
+        {
+          "miscTitle":"Apps",
+          "miscSummary":"Updated Customizations app too 8.02.2021-8:48(GMT+2)",
+          "settingsTitle":"",
+          "settingsSummary":"",
+          "securityTitle":"Safety Net",
+          "securitySummary":"Moved to sunfish fingerprint",
+          "systemTitle":"",
+          "systemSummary":"Fixed navigation bar pill on landscape orientation.\nImprovements to three finger screenshot gesture.\nFixed pink intermediate progress animation color in expanded Wi-Fi tile.\nImprovements on the bluetooth battery level indicator.\nFixed VoLTE for various carriers."
+        }
+      ]
+    }
+  ]
+}
