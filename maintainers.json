@@ -1,0 +1,54 @@
+{
+  "devs":[
+    {
+      "name":"Mohan CM & Iacob Ionut",
+      "github":"mohancm",
+      "device":"Xiaomi Redmi Note 4X (mido)"
+    },
+    {
+      "name":"Marco Rizzo",
+      "github":"hack64",
+      "device":"Xiaomi Mi 9T (davinci)"
+    },
+    {
+      "name":"Sipun Ku Mahanta",
+      "github":"sweeto143",
+      "device":"Xiaomi Redmi Note 6 Pro (whyred)"
+    },
+    {
+      "name":"Sahil Sonar",
+      "github":"SahilSonar",
+      "device":"Xiaomi Redmi Note 8 Pro (begonia)"
+    },
+    {
+      "name":"Ritzzzz",
+      "github":"riteshm321",
+      "device":"Xiaomi Mi 9T Pro (raphael)"
+    },
+    {
+      "name":"Manohar Singh",
+      "github":"adi153",
+      "device":"Xiaomi Redmi 4A (rolex)"
+    },
+    {
+      "name":"Aseel P Sathar",
+      "github":"aseelps",
+      "device":"Xiaomi Redmi Note 5/ Plus (vince)"
+    },
+    {
+      "name":"Ken Kaneki",
+      "github":"dhimanparas20",
+      "device":"Asus Zenfone Max Pro M1 (X00TD)"
+    },
+    {
+      "name":"Venkat3620",
+      "github":"venkat3620",
+      "device":"Xiaomi Mi A2 (jasmine_sprout)"
+    },
+    {
+      "name":"Shreehari Vaasishta L",
+      "github":"ShreehariVaasishta",
+      "device":"Poco M2 Pro (miatoll)"
+    }
+  ]
+}
