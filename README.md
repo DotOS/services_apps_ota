@@ -1,4 +1,6 @@
 # Documentation
+# DEPRECATED
+## Moved to https://github.com/DotOS/official_devices
 ### json example :
 
 ```
