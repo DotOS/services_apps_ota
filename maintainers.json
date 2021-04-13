@@ -70,6 +70,10 @@
       "github":"ElectroPerf",
       "device":"Asus Zenfone Max Pro M2 (X01BD)"
     },
+    { "name":"Introdructor",
+      "github":"Introdructor",
+      "device":"Xiaomi Redmi Note 8 (ginkgo)"
+    },
     {
       "name":"Nipin NA (Joker-V2)",
       "github":"Joker-V2",
