@@ -1,0 +1,27 @@
+{
+  "response":[
+    {
+      "datetime":1620390248,
+      "filename":"dotOS-R-v5.0.1-X01BD-OFFICIAL-20210507-1224.zip",
+      "id":"903f51f3cfebb88958eed7f0d7c8c9e4",
+      "romtype":"OFFICIAL",
+      "size":753385250,
+      "url":"https://downloads.droidontime.com/dot11/X01BD/vanilla/dotOS-R-v5.0.1-X01BD-OFFICIAL-20210507-1224.zip",
+      "version":"v5.0.1",
+      "changelog":[
+        {
+          "miscTitle": "",
+          "miscSummary": "Updated translations from crowdin\n UI/UX improvements\n Stability and underhood improvements",
+          "settingsTitle": "",
+          "settingsSummary": "Fixed crash in customisation app on switching to certain regional languages",
+          "securityTitle": "",
+          "securitySummary": "Updated to May Security Patches (r37)",
+          "systemTitle": "",
+          "systemSummary": "",
+	  "deviceTitle": "",
+  	  "deviceSummary": "Fixed issues with broken internal audio in screen record\n Upstreamed and fixed a lot of kernel side stuffs\n Switched to user-enforcing builds\n Added motorola dolby which works in enforcing\n A lot of under the hood fixes",
+        }
+      ]
+    }
+  ]
+}
