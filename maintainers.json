@@ -103,6 +103,11 @@
       "name":"DtHnAme",
       "github":"DtHnAme",
       "device":"Redmi Note 9 Pro 5G/Mi10i/Mi 10t Lite (gauguin)"
+    },
+    {
+      "name":"ReallySnow",
+      "github":"ReallySnow",
+      "device":"ZUK Z2 Plus (z2_plus)"
     }
   ]
 }
