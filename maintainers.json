@@ -128,6 +128,11 @@
 			"name": "ejbtrd",
 			"github": "ejbtrd",
 			"device": "Xiaomi Mi 10T/10T Pro (apollo)"
+		},
+		{
+			"name": "Adarsh",
+			"github": "AdarshGrewal",
+			"device": "Redmi Note 10 Pro/Pro Max (sweet)"
 		}
 	]
 }
