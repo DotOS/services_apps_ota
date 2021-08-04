@@ -1,5 +1,6 @@
 {
-	"devs": [{
+	"devs": [
+		{
 			"name": "Mohan CM & Iacob Ionut",
 			"github": "mohancm",
 			"device": "Xiaomi Redmi Note 4X (mido)"
@@ -125,8 +126,8 @@
 			"device": "ZUK Z2 Plus (z2_plus)"
 		},
 		{
-			"name": "ZAID KHAN (zaidkhan0997)",
-			"github": "zaidkhan0997",
+			"name": "ririxi",
+			"github": "ririxidev",
 			"device": "Xiaomi Redmi Note 7/7s (lavender)"
 		},
 		{
@@ -148,6 +149,6 @@
 			"name": "Karthik N (zorock)",
 			"github": "karthik990",
 			"device": "OnePlus 5/T (Cheeseburger/Dumpling)"
-		}		 
+		}
 	]
 }
