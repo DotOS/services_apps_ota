@@ -149,6 +149,16 @@
 			"name": "Karthik N (zorock)",
 			"github": "karthik990",
 			"device": "OnePlus 5/T (Cheeseburger/Dumpling)"
+	        },
+                {
+                        "name":"CHRISL7",
+                        "github":"chrisw444",
+                        "device":"POCO X3/X3 NFC (Karna/Surya)"
+                },
+                {
+      			"name":"Sambit",
+      			"github":"stellabyte2",
+      			"device":"POCO X3/X3 NFC (Karna/Surya)"
 		}
 	]
 }
